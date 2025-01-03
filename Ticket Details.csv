@@ -1,0 +1,628 @@
+﻿Ticket No,Priority,State,Category,Issue,Skill Team,Hosting,Create Date,Picked Date,Completed Date,Assignee,Customer Rating,Outcome,Escalated,Reached via
+T01,High,California,Data Privacy,GDPR,IT,Vendor Cloud,03-01-2021 12:46,03-01-2021 12:48,03-06-2021 16:35,Bob,Excellent (5),Advised for a risk assessment,,Personal Call
+T02,Low,Minnesota,Cyber Consultation,BCP/DR,IT,On Prem Server,04-01-2021 09:52,04-01-2021 10:12,17-01-2021 09:44,Bob,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T03,High,Maryland,Cyber Security Breach,Firewall,HR,Vendor Cloud,04-01-2021 10:11,04-01-2021 10:11,04-01-2021 11:43,Allan,Excellent (5),Recommended Threat Assessment,,Personal Call
+T04,Low,New York,Security Gap,Password non-expiry,IT,On Prem Server,04-01-2021 10:55,04-01-2021 10:55,18-01-2021 11:06,Allan,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T05,High,California,Cyber Security Breach,Malware Attack,Legal,On Prem Cloud,04-01-2021 21:58,04-01-2021 22:13,11-01-2021 12:20,Charlotte,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T06,Low,California,Cyber Consultation,New Application Launch,Finance,Vendor Cloud,05-01-2021 00:00,05-01-2021 09:24,07-01-2021 21:30,Sebastian,Satisfactory (3),Resolved,,Mail
+T07,High,Texas,Cyber Consultation,Application Offboarding,Marketing,On Prem Server,05-01-2021 21:27,05-01-2021 21:45,07-01-2021 20:14,Martina,Good (4),Advised for a risk assessment,,Personal Call
+T08,High,Utah,Data Leak,Insider Threat,IT,On Prem Server,05-01-2021 21:33,28-04-2021 22:11,10-01-2021 18:30,Martina,Good (4),Recommended Threat Assessment,,Ticket Portal
+T09,High,New Jersey,Data Privacy,HIPAA,Legal,Vendor Cloud,06-01-2021 19:36,08-07-2021 01:39,11-01-2021 10:17,Bob,Unsatisfactory (2),Advised for a risk assessment,Yes,Ticket Portal
+T10,Low,California,Cyber Consultation,Segregation of Duties,Manufacturing,Vendor Cloud,06-01-2021 19:47,06-01-2021 20:09,10-01-2021 11:04,Sylviya,Good (4),Advised for a risk assessment,,Personal Call
+T100,Low,California,Cyber Consultation,Database Security,IT,On Prem Server,13-03-2021 21:53,13-03-2021 21:54,17-03-2021 18:36,Charlotte,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T101,High,California,Data Leak,Insider Threat,HR,Vendor Cloud,19-03-2021 04:21,19-03-2021 04:22,19-03-2021 04:23,Benny,Unsatisfactory (2),Recommended Threat Assessment,No,Ticket Portal
+T102,High,Iowa,Cyber Security Breach,Malware Attack,HR,On Prem Server,19-03-2021 06:14,19-03-2021 06:16,25-03-2021 14:25,Benny,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T103,Medium,New Jersey,Cyber Consultation,Secure Development,IT,Vendor Cloud,20-03-2021 08:44,20-03-2021 08:45,20-03-2021 08:52,Martina,Excellent (5),Advised for a risk assessment,,Personal Call
+T104,Low,Florida,Cyber Consultation,Segregation of Duties,Marketing,On Prem Cloud,21-03-2021 18:18,21-03-2021 18:31,09-06-2021 12:11,Robbin,Excellent (5),Resolved,,Ticket Portal
+T105,Medium,Utah,Data Privacy,HIPAA,HR,Vendor Cloud,25-03-2021 18:56,25-03-2021 19:49,25-03-2021 19:49,Sebastian,Excellent (5),Advised for a risk assessment,,Personal Call
+T106,High,California,Data Privacy,GDPR,IT,On Prem Cloud,25-03-2021 23:29,25-03-2021 23:37,03-06-2021 18:54,Martina,Excellent (5),Advised for a risk assessment,,Mail
+T107,High,Michigan,Data Privacy,PCI-DSS,IT,On Prem Cloud,27-03-2021 15:20,27-03-2021 15:21,27-03-2021 15:40,Sean,Unsatisfactory (2),Resolved,No,Ticket Portal
+T108,High,Michigan,Data Privacy,PCI-DSS,IT,On Prem Cloud,27-03-2021 15:20,27-03-2021 15:21,27-03-2021 15:40,Martina,Unsatisfactory (2),Resolved,No,Mail
+T109,Low,Georgia,Data Leak,Insider Threat,Legal,Vendor Cloud,27-03-2021 16:21,27-03-2021 16:24,03-06-2021 19:36,Allan,Excellent (5),Resolved,,Ticket Portal
+T11,Low,Louisiana,Data Leak,Insider Threat,IT,On Prem Cloud,07-01-2021 14:38,07-01-2021 14:41,03-09-2021 17:36,Kareema,Good (4),Advised for a risk assessment,,Ticket Portal
+T110,Medium,California,Data Privacy,Privacy Assessment,Finance,On Prem Cloud,27-03-2021 17:44,27-03-2021 18:14,03-06-2021 19:26,Martina,Unsatisfactory (2),Recommended Threat Assessment,No,Ticket Portal
+T111,Medium,Connecticut,Security Gap,Obsolete Software,Finance,On Prem Server,31-03-2021 09:37,31-03-2021 09:37,31-03-2021 09:40,Allan,Satisfactory (3),Resolved,,Ticket Portal
+T112,Low,California,Cyber Consultation,New Application Launch,Finance,On Prem Server,31-03-2021 09:46,31-03-2021 09:47,31-03-2021 09:51,Allan,Unsatisfactory (2),Recommended Threat Assessment,No,Ticket Portal
+T113,Medium,Wisconsin,Data Privacy,Privacy Assessment,IT,On Prem Server,31-03-2021 09:46,31-03-2021 09:47,03-06-2021 19:56,Allan,Satisfactory (3),Resolved,,Ticket Portal
+T114,Low,California,Cyber Consultation,BCP/DR,Marketing,Vendor Cloud,31-03-2021 11:13,31-03-2021 11:13,31-03-2021 11:38,Allan,Satisfactory (3),Resolved,,Ticket Portal
+T115,High,Florida,Cyber Security Breach,Malware Attack,IT,On Prem Cloud,31-03-2021 15:53,31-03-2021 15:56,04-06-2021 12:27,Martina,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T116,Low,Oregon,Data Privacy,PCI-DSS,Legal,On Prem Server,01-04-2021 00:35,01-04-2021 00:42,06-04-2021 16:58,Martina,Good (4),Resolved,,Personal Call
+T117,High,New York,Data Privacy,GDPR,HR,On Prem Cloud,01-04-2021 00:38,01-04-2021 10:24,12-04-2021 17:05,Bob,Excellent (5),Resolved,,Ticket Portal
+T118,High,California,Data Leak,Insider Threat,Legal,On Prem Server,01-04-2021 15:51,01-04-2021 15:54,07-04-2021 18:33,Cinderalla,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T119,Low,Virginia,Data Privacy,PCI-DSS,HR,On Prem Server,02-04-2021 02:55,03-04-2021 07:29,30-08-2021 19:26,Martina,Excellent (5),Recommended Threat Assessment,,Mail
+T12,High,California,Cyber Consultation,Application Offboarding,IT,On Prem Cloud,07-01-2021 17:14,07-01-2021 18:23,18-01-2021 11:03,Allan,Good (4),Resolved,,Personal Call
+T120,High,Pennsylvania,Data Privacy,Privacy Assessment,Legal,On Prem Cloud,05-04-2021 10:14,05-04-2021 10:18,07-04-2021 18:26,Aleena,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T121,High,Florida,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,05-04-2021 14:51,05-04-2021 14:51,05-05-2021 10:31,Allan,Good (4),Advised for a risk assessment,,Ticket Portal
+T122,High,California,Cyber Security Breach,Malware Attack,IT,On Prem Server,05-04-2021 15:29,05-04-2021 15:30,08-04-2021 16:49,Charlotte,Unsatisfactory (2),Resolved,No,Mail
+T123,High,Rhode Island,Cyber Consultation,Secure Development,HR,On Prem Server,07-04-2021 05:50,07-04-2021 09:55,04-05-2021 16:23,Sean,Excellent (5),Advised for a risk assessment,,Mail
+T124,Medium,New York,Cyber Consultation,New Application Launch,Manufacturing,On Prem Server,07-04-2021 13:55,07-04-2021 13:59,13-04-2021 16:50,Charles,Excellent (5),Recommended Threat Assessment,,Personal Call
+T125,Medium,Virginia,Data Privacy,GDPR,IT,On Prem Cloud,07-04-2021 18:37,07-04-2021 18:37,08-04-2021 17:28,Aleena,Excellent (5),Advised for a risk assessment,,Personal Call
+T126,High,Florida,Cyber Security Breach,Spyware,Finance,On Prem Server,07-04-2021 20:36,07-04-2021 20:37,17-05-2021 17:35,Aleena,Good (4),Recommended Threat Assessment,,Ticket Portal
+T127,High,Texas,Cyber Consultation,BCP/DR,IT,On Prem Server,08-04-2021 11:15,08-04-2021 11:15,26-05-2021 11:15,Robbin,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T128,High,Virginia,Cyber Consultation,New Application Launch,Manufacturing,Vendor Cloud,08-04-2021 12:53,08-04-2021 12:54,08-04-2021 22:00,Aleena,Good (4),Resolved,,Ticket Portal
+T129,Low,Ohio,Data Privacy,Privacy Assessment,Marketing,On Prem Server,08-04-2021 18:58,08-04-2021 19:08,12-04-2021 14:37,Cinderalla,Excellent (5),Advised for a risk assessment,,Personal Call
+T13,Low,California,Data Leak,Insider Threat,HR,On Prem Cloud,07-01-2021 17:14,07-01-2021 18:23,18-01-2021 11:03,Allan,Excellent (5),Resolved,,Ticket Portal
+T130,Medium,New York,Security Gap,Unauthorized software,Finance,On Prem Server,08-04-2021 19:26,08-04-2021 19:45,12-04-2021 09:28,Aleena,Unsatisfactory (2),Recommended Threat Assessment,No,Ticket Portal
+T131,Low,Arizona,Data Privacy,HIPAA,Finance,On Prem Cloud,10-04-2021 01:56,10-04-2021 02:02,28-04-2021 04:14,Martina,Excellent (5),Recommended Threat Assessment,,Personal Call
+T132,High,Georgia,Cyber Security Breach,Firewall,Finance,On Prem Cloud,12-04-2021 14:04,12-04-2021 14:06,13-04-2021 18:45,Aleena,Satisfactory (3),Resolved,,Ticket Portal
+T133,Low,Arizona,Cyber Consultation,Application Offboarding,IT,Vendor Cloud,12-04-2021 16:39,12-04-2021 16:43,19-04-2021 17:00,Aleena,Satisfactory (3),Resolved,,Mail
+T134,High,Texas,Cyber Security Breach,Spyware,Marketing,On Prem Server,12-04-2021 20:14,12-04-2021 20:14,06-05-2021 12:53,Robbin,Good (4),Advised for a risk assessment,,Ticket Portal
+T135,High,California,Data Privacy,PCI-DSS,Finance,On Prem Server,12-04-2021 20:17,12-04-2021 20:18,16-04-2021 12:57,Robbin,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T136,High,New York,Cyber Security Breach,Trojan Attack,Finance,On Prem Cloud,13-04-2021 14:45,13-04-2021 14:48,15-04-2021 14:21,Sebastian,Unsatisfactory (2),Resolved,No,Mail
+T137,Medium,New York,Cyber Consultation,Segregation of Duties,Finance,On Prem Cloud,13-04-2021 18:25,13-04-2021 18:49,19-04-2021 14:07,Kareema,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T138,Low,California,Data Leak,Phishing,Marketing,On Prem Server,13-04-2021 22:55,13-04-2021 23:29,05-05-2021 20:51,Sean,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T139,High,Massachusetts,Data Leak,Vishing,HR,On Prem Server,14-04-2021 21:46,14-04-2021 21:49,19-04-2021 18:13,Michael,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T14,High,Florida,Cyber Consultation,Encryption,IT,On Prem Server,07-01-2021 20:22,07-01-2021 20:23,11-01-2021 17:45,Veronica,Unsatisfactory (2),Resolved,No,Mail
+T140,High,Ohio,Cyber Consultation,Access Management,Legal,On Prem Server,15-04-2021 18:16,15-04-2021 18:20,19-04-2021 09:53,Michael,Excellent (5),Advised for a risk assessment,,Personal Call
+T141,Low,Texas,Data Leak,Insider Threat,Finance,Vendor Cloud,15-04-2021 18:50,15-04-2021 18:51,15-04-2021 18:53,Michael,Excellent (5),Resolved,,Ticket Portal
+T142,High,New Mexico,Data Privacy,HIPAA,Finance,Vendor Cloud,15-04-2021 20:16,15-04-2021 20:18,20-04-2021 15:50,Cinderalla,Excellent (5),Resolved,,Ticket Portal
+T143,Low,Texas,Data Privacy,GDPR,Legal,On Prem Server,16-04-2021 18:38,16-04-2021 18:40,27-04-2021 20:27,Aleena,Good (4),Resolved,,Ticket Portal
+T144,High,New York,Data Leak,Vishing,Finance,On Prem Cloud,19-04-2021 11:21,19-04-2021 11:22,19-04-2021 19:32,Charlotte,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T145,Medium,Nevada,Security Gap,Password non-expiry,IT,On Prem Server,19-04-2021 14:05,19-04-2021 14:06,27-04-2021 11:05,Kareema,Excellent (5),Resolved,,Ticket Portal
+T146,Low,California,Data Privacy,GDPR,Manufacturing,Vendor Cloud,19-04-2021 15:49,19-04-2021 15:51,19-04-2021 15:51,Charles,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T147,Medium,Illinois,Data Privacy,Privacy Assessment,IT,On Prem Server,19-04-2021 16:50,19-04-2021 16:51,20-04-2021 11:04,Michael,Good (4),Resolved,,Personal Call
+T148,Low,California,Cyber Consultation,New Application Launch,IT,On Prem Cloud,20-04-2021 07:11,20-04-2021 07:15,30-06-2021 09:29,Michael,Excellent (5),Resolved,,Ticket Portal
+T149,High,Pennsylvania,Cyber Security Breach,Malware Attack,HR,On Prem Cloud,20-04-2021 14:36,20-04-2021 14:37,20-04-2021 15:15,Michael,Good (4),Resolved,,Ticket Portal
+T15,Low,Georgia,Data Privacy,PCI-DSS,Legal,Vendor Cloud,10-01-2021 17:10,10-01-2021 17:15,20-01-2021 10:34,Bob,Satisfactory (3),Advised for a risk assessment,,Personal Call
+T150,Low,California,Security Gap,Unauthorized access,IT,Vendor Cloud,20-04-2021 15:37,20-04-2021 15:45,23-04-2021 18:44,Cinderalla,Good (4),Resolved,,Ticket Portal
+T151,High,Utah,Data Privacy,GDPR,Marketing,On Prem Server,20-04-2021 17:31,20-04-2021 17:37,20-04-2021 20:30,Martina,Satisfactory (3),Recommended Threat Assessment,,Mail
+T152,Low,North Carolina,Data Privacy,HIPAA,Marketing,On Prem Server,20-04-2021 17:55,20-04-2021 17:57,27-04-2021 19:50,Sebastian,Unsatisfactory (2),Recommended Threat Assessment,No,Mail
+T153,Low,Arizona,Data Privacy,HIPAA,HR,On Prem Server,20-04-2021 18:45,20-04-2021 18:45,20-04-2021 18:47,Sean,Excellent (5),Resolved,,Mail
+T154,High,Texas,Cyber Consultation,New Application Launch,Finance,On Prem Cloud,20-04-2021 19:59,20-04-2021 19:59,21-04-2021 12:56,Sean,Unsatisfactory (2),Recommended Threat Assessment,No,Ticket Portal
+T155,High,Florida,Cyber Security Breach,Firewall,HR,On Prem Server,20-04-2021 23:49,21-04-2021 11:23,21-04-2021 11:23,Sean,Satisfactory (3),Resolved,,Personal Call
+T156,High,Minnesota,Cyber Consultation,Third Party Engagement,IT,On Prem Server,21-04-2021 10:56,21-04-2021 10:59,21-04-2021 11:00,Sean,Good (4),Resolved,,Ticket Portal
+T157,Medium,North Carolina,Data Privacy,PCI-DSS,IT,Vendor Cloud,21-04-2021 11:45,21-04-2021 11:45,22-04-2021 14:50,Kareema,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T158,Medium,California,Cyber Consultation,Segregation of Duties,Manufacturing,On Prem Server,21-04-2021 11:58,21-04-2021 11:59,22-04-2021 14:49,Kareema,Good (4),Resolved,,Mail
+T159,Medium,Florida,Cyber Consultation,Application Offboarding,IT,On Prem Server,21-04-2021 22:38,21-04-2021 23:30,26-04-2021 19:35,Martina,Good (4),Advised for a risk assessment,,Ticket Portal
+T16,Medium,California,Data Leak,Vishing,Marketing,On Prem Server,10-01-2021 17:10,10-01-2021 17:15,20-01-2021 10:34,Bob,Excellent (5),Advised for a risk assessment,,Mail
+T160,High,California,Cyber Security Breach,Firewall,Marketing,Vendor Cloud,22-04-2021 02:13,22-04-2021 09:47,03-05-2021 09:49,Sean,Excellent (5),Resolved,,Ticket Portal
+T161,High,California,Cyber Consultation,Segregation of Duties,IT,On Prem Server,22-04-2021 10:17,22-04-2021 10:18,22-04-2021 12:40,Allan,Excellent (5),Resolved,,Mail
+T162,Low,California,Cyber Consultation,Application Offboarding,Finance,On Prem Server,22-04-2021 11:08,22-04-2021 11:11,22-04-2021 12:35,Allan,Good (4),Recommended Threat Assessment,,Mail
+T163,Low,Virginia,Security Gap,Unauthorized access,HR,On Prem Server,22-04-2021 11:18,22-04-2021 11:18,22-04-2021 12:33,Allan,Good (4),Advised for a risk assessment,,Personal Call
+T164,Medium,Arizona,Cyber Consultation,Application Offboarding,HR,Vendor Cloud,22-04-2021 14:54,22-04-2021 14:54,27-04-2021 11:00,Kareema,Unsatisfactory (2),Recommended Threat Assessment,No,Personal Call
+T165,Low,New York,Cyber Consultation,Encryption,HR,On Prem Server,22-04-2021 15:21,22-04-2021 15:22,22-04-2021 18:59,Kareema,Unsatisfactory (2),Advised for a risk assessment,No,Ticket Portal
+T166,Medium,New York,Cyber Consultation,New Application Launch,HR,On Prem Server,23-04-2021 13:18,23-04-2021 13:22,26-04-2021 14:13,Sean,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T167,Low,Oregon,Data Privacy,GDPR,Finance,On Prem Cloud,23-04-2021 16:42,23-04-2021 16:44,23-04-2021 17:07,Bob,Good (4),Resolved,,Ticket Portal
+T168,High,Illinois,Security Gap,Obsolete Software,IT,Vendor Cloud,25-04-2021 16:48,25-04-2021 16:48,25-04-2021 16:48,Bob,Excellent (5),Resolved,,Ticket Portal
+T169,High,Minnesota,Cyber Security Breach,Malware Attack,HR,On Prem Server,25-04-2021 16:50,26-04-2021 06:57,18-05-2021 17:58,Robbin,Excellent (5),Advised for a risk assessment,,Personal Call
+T17,Low,New York,Data Leak,Phishing,Manufacturing,Vendor Cloud,10-01-2021 17:24,10-01-2021 17:26,21-01-2021 20:07,Aleena,Unsatisfactory (2),Resolved,No,Ticket Portal
+T170,Low,Florida,Data Privacy,HIPAA,Legal,On Prem Cloud,26-04-2021 14:26,26-04-2021 14:30,28-04-2021 13:05,Veronica,Satisfactory (3),Resolved,,Ticket Portal
+T171,High,Florida,Cyber Security Breach,Trojan Attack,Marketing,On Prem Server,26-04-2021 21:59,27-04-2021 11:01,24-06-2021 15:37,Bob,Unsatisfactory (2),Advised for a risk assessment,Yes,Ticket Portal
+T172,Low,Arizona,Data Privacy,HIPAA,Legal,Vendor Cloud,27-04-2021 19:03,27-04-2021 19:07,18-05-2021 16:00,Charlotte,Excellent (5),Advised for a risk assessment,,Mail
+T173,Medium,Missouri,Cyber Consultation,Third Party Engagement,HR,Vendor Cloud,27-04-2021 19:03,27-04-2021 19:07,18-05-2021 16:00,Charlotte,Unsatisfactory (2),Advised for a risk assessment,Yes,Ticket Portal
+T174,High,Louisiana,Cyber Security Breach,Malware Attack,IT,On Prem Server,27-04-2021 19:20,27-04-2021 19:31,29-04-2021 21:00,Sylviya,Excellent (5),Resolved,,Ticket Portal
+T175,High,Tennessee,Data Privacy,PCI-DSS,HR,On Prem Server,27-04-2021 19:20,27-04-2021 19:31,29-04-2021 21:00,Sylviya,Excellent (5),Advised for a risk assessment,,Mail
+T176,Low,Virginia,Data Privacy,Privacy Assessment,HR,Vendor Cloud,28-04-2021 21:21,28-04-2021 21:24,30-04-2021 18:00,Martina,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T177,High,Kansas,Security Gap,Password non-expiry,HR,Vendor Cloud,28-04-2021 21:21,28-04-2021 21:24,30-04-2021 18:00,Martina,Good (4),Advised for a risk assessment,,Personal Call
+T178,Medium,Virginia,Cyber Consultation,Encryption,Finance,On Prem Server,28-04-2021 21:49,28-04-2021 22:09,14-05-2021 00:11,Sean,Satisfactory (3),Advised for a risk assessment,,Mail
+T179,Low,Arizona,Data Privacy,HIPAA,IT,On Prem Server,28-04-2021 21:49,28-04-2021 22:09,14-05-2021 00:11,Sean,Excellent (5),Advised for a risk assessment,,Mail
+T18,High,California,Cyber Security Breach,Firewall,IT,On Prem Server,10-01-2021 17:24,10-01-2021 17:26,21-01-2021 20:07,Aleena,Satisfactory (3),Advised for a risk assessment,,Mail
+T180,Low,Pennsylvania,Cyber Consultation,New Application Launch,HR,On Prem Server,28-04-2021 22:11,28-04-2021 22:11,28-04-2021 22:11,Sean,Satisfactory (3),Resolved,,Personal Call
+T181,Low,Colorado,Security Gap,Password non-expiry,HR,Vendor Cloud,28-04-2021 22:11,28-04-2021 22:11,28-04-2021 22:11,Sean,Good (4),Advised for a risk assessment,,Ticket Portal
+T182,Low,Illinois,Data Privacy,HIPAA,Finance,On Prem Server,28-04-2021 22:17,28-04-2021 22:19,04-05-2021 16:20,Sean,Unsatisfactory (2),Resolved,Yes,Personal Call
+T183,High,Illinois,Cyber Security Breach,Firewall,Finance,On Prem Server,28-04-2021 22:17,28-04-2021 22:19,04-05-2021 16:20,Sean,Good (4),Resolved,,Ticket Portal
+T184,Low,Texas,Data Privacy,HIPAA,Finance,Vendor Cloud,29-04-2021 01:56,29-04-2021 07:47,16-07-2021 12:57,Robbin,Good (4),Advised for a risk assessment,,Mail
+T185,High,Oregon,Cyber Consultation,Application Offboarding,Manufacturing,On Prem Server,29-04-2021 01:56,29-04-2021 07:47,16-07-2021 12:57,Robbin,Satisfactory (3),Recommended Threat Assessment,,Mail
+T186,Low,New York,Data Leak,Phishing,IT,Vendor Cloud,29-04-2021 14:28,29-04-2021 14:29,27-09-2021 18:58,Robbin,Unsatisfactory (2),Resolved,Yes,Mail
+T187,High,Indiana,Data Privacy,GDPR,Manufacturing,On Prem Cloud,29-04-2021 15:28,29-04-2021 15:28,29-04-2021 15:28,Bob,Excellent (5),Advised for a risk assessment,,Mail
+T188,High,Texas,Data Privacy,HIPAA,HR,Vendor Cloud,29-04-2021 17:25,29-04-2021 17:25,29-04-2021 20:05,Bob,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T189,Low,Virginia,Data Leak,Insider Threat,IT,Vendor Cloud,29-04-2021 17:29,29-04-2021 17:30,29-04-2021 17:30,Bob,Good (4),Resolved,,Ticket Portal
+T19,High,Virginia,Cyber Security Breach,Spyware,Finance,On Prem Server,11-01-2021 12:15,11-01-2021 12:16,13-01-2021 22:08,Charlotte,Excellent (5),Advised for a risk assessment,,Personal Call
+T190,Medium,Ohio,Data Privacy,HIPAA,HR,On Prem Server,29-04-2021 17:30,29-04-2021 17:47,29-04-2021 20:05,Bob,Excellent (5),Resolved,,Ticket Portal
+T191,High,Ohio,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,30-04-2021 10:31,30-04-2021 11:49,30-04-2021 18:57,Bob,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T192,Medium,Delaware,Data Privacy,Privacy Assessment,Marketing,On Prem Cloud,30-04-2021 16:10,30-04-2021 16:11,13-05-2021 17:18,Bob,Excellent (5),Resolved,,Ticket Portal
+T193,Low,Tennessee,Cyber Consultation,New Application Launch,HR,On Prem Cloud,30-04-2021 17:12,30-04-2021 17:19,04-05-2021 16:04,Charles,Good (4),Advised for a risk assessment,,Ticket Portal
+T194,High,California,Data Privacy,GDPR,IT,Vendor Cloud,03-05-2021 12:46,03-05-2021 12:48,03-06-2021 16:35,Bob,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T195,High,California,Data Privacy,GDPR,IT,On Prem Server,03-05-2021 22:09,03-05-2021 22:12,10-05-2021 18:32,Martina,Good (4),Resolved,,Ticket Portal
+T196,Low,Minnesota,Cyber Consultation,BCP/DR,IT,On Prem Server,04-05-2021 09:52,04-05-2021 10:12,17-05-2021 09:44,Bob,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T197,High,Maryland,Cyber Security Breach,Firewall,HR,Vendor Cloud,04-05-2021 10:11,04-05-2021 10:11,04-05-2021 11:43,Allan,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T198,High,Arizona,Cyber Security Breach,Malware Attack,Finance,On Prem Cloud,04-05-2021 10:26,04-05-2021 10:27,04-05-2021 11:47,Allan,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T199,Low,New York,Security Gap,Password non-expiry,IT,On Prem Server,04-05-2021 10:55,04-05-2021 10:55,18-05-2021 11:06,Allan,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T20,Low,California,Data Privacy,HIPAA,Finance,On Prem Server,11-01-2021 17:17,11-01-2021 17:18,13-01-2021 11:46,Kareema,Excellent (5),Resolved,,Ticket Portal
+T200,High,California,Cyber Security Breach,Malware Attack,Legal,On Prem Cloud,04-05-2021 21:58,04-05-2021 22:13,11-05-2021 12:20,Charlotte,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T201,Low,California,Cyber Consultation,New Application Launch,Finance,Vendor Cloud,05-05-2021 00:00,05-05-2021 09:24,07-05-2021 21:30,Sebastian,Satisfactory (3),Resolved,,Mail
+T202,High,Texas,Cyber Consultation,Application Offboarding,Marketing,On Prem Server,05-05-2021 21:27,05-05-2021 21:45,07-05-2021 20:14,Charlotte,Good (4),Advised for a risk assessment,,Ticket Portal
+T203,High,Utah,Data Leak,Insider Threat,IT,On Prem Server,05-05-2021 21:33,28-04-2021 22:11,10-05-2021 18:30,Martina,Good (4),Recommended Threat Assessment,,Ticket Portal
+T204,High,New Jersey,Data Privacy,HIPAA,Legal,Vendor Cloud,06-05-2021 19:36,08-07-2021 01:39,11-05-2021 10:17,Bob,Unsatisfactory (2),Advised for a risk assessment,Yes,Mail
+T205,Low,California,Cyber Consultation,Segregation of Duties,Manufacturing,Vendor Cloud,06-05-2021 19:47,06-05-2021 20:09,10-05-2021 11:04,Sylviya,Good (4),Advised for a risk assessment,,Ticket Portal
+T206,High,Utah,Data Privacy,HIPAA,Legal,On Prem Cloud,06-05-2021 23:44,06-05-2021 23:57,10-05-2021 17:53,Martina,Good (4),Recommended Threat Assessment,,Mail
+T207,High,Missouri,Data Privacy,GDPR,Manufacturing,On Prem Server,06-05-2021 23:44,06-05-2021 23:57,10-05-2021 17:53,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T208,Low,Louisiana,Data Leak,Insider Threat,IT,On Prem Cloud,07-05-2021 14:38,07-05-2021 14:41,03-09-2021 17:36,Kareema,Good (4),Advised for a risk assessment,,Ticket Portal
+T209,Medium,California,Security Gap,Obsolete Software,Marketing,Vendor Cloud,07-05-2021 14:38,07-05-2021 14:41,03-09-2021 17:36,Kareema,Satisfactory (3),Resolved,,Ticket Portal
+T21,High,New York,Data Leak,Insider Threat,HR,On Prem Cloud,11-01-2021 17:17,11-01-2021 17:18,13-01-2021 11:46,Kareema,Unsatisfactory (2),Resolved,No,Ticket Portal
+T210,High,California,Cyber Consultation,Application Offboarding,IT,On Prem Cloud,07-05-2021 17:14,07-05-2021 18:23,18-05-2021 11:03,Allan,Good (4),Resolved,,Ticket Portal
+T211,Low,California,Data Leak,Insider Threat,HR,On Prem Cloud,07-05-2021 17:14,07-05-2021 18:23,18-05-2021 11:03,Allan,Excellent (5),Resolved,,Ticket Portal
+T212,High,Florida,Cyber Consultation,Encryption,IT,On Prem Server,07-05-2021 20:22,07-05-2021 20:23,11-05-2021 17:45,Veronica,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T213,High,Michigan,Data Leak,Insider Threat,IT,Vendor Cloud,07-05-2021 20:22,07-05-2021 20:23,11-05-2021 17:45,Veronica,Good (4),Resolved,,Mail
+T214,Low,Georgia,Data Privacy,PCI-DSS,Legal,Vendor Cloud,10-05-2021 17:10,10-05-2021 17:15,20-05-2021 10:34,Bob,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T215,Medium,California,Data Leak,Vishing,Marketing,On Prem Server,10-05-2021 17:10,10-05-2021 17:15,20-05-2021 10:34,Bob,Excellent (5),Advised for a risk assessment,,Personal Call
+T216,Low,New York,Data Leak,Phishing,Manufacturing,Vendor Cloud,10-05-2021 17:24,10-05-2021 17:26,21-05-2021 20:07,Aleena,Unsatisfactory (2),Resolved,,Ticket Portal
+T217,High,California,Cyber Security Breach,Firewall,IT,On Prem Server,10-05-2021 17:24,10-05-2021 17:26,21-05-2021 20:07,Aleena,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T218,High,Virginia,Cyber Security Breach,Spyware,Finance,On Prem Server,11-05-2021 12:15,11-05-2021 12:16,13-05-2021 22:08,Charlotte,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T219,Medium,Oregon,Data Privacy,GDPR,HR,Vendor Cloud,11-05-2021 12:15,11-05-2021 12:16,13-05-2021 22:08,Charlotte,Excellent (5),Resolved,,Ticket Portal
+T22,High,Florida,Cyber Security Breach,Malware Attack,Finance,On Prem Server,11-01-2021 18:15,11-01-2021 18:15,13-01-2021 11:10,Benny,Excellent (5),Recommended Threat Assessment,,Mail
+T220,Low,California,Data Privacy,HIPAA,Finance,On Prem Server,11-05-2021 17:17,11-05-2021 17:18,13-05-2021 11:46,Kareema,Excellent (5),Resolved,,Mail
+T221,High,New York,Data Leak,Insider Threat,HR,On Prem Cloud,11-05-2021 17:17,11-05-2021 17:18,13-05-2021 11:46,Kareema,Unsatisfactory (2),Resolved,,Ticket Portal
+T222,High,Florida,Cyber Security Breach,Malware Attack,Finance,On Prem Server,11-05-2021 18:15,11-05-2021 18:15,13-05-2021 11:10,Benny,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T223,Medium,Colorado,Cyber Consultation,Segregation of Duties,Finance,On Prem Cloud,11-05-2021 18:15,11-05-2021 18:15,13-05-2021 11:10,Benny,Good (4),Advised for a risk assessment,,Mail
+T224,Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Server,11-05-2021 23:36,12-05-2021 01:18,17-05-2021 21:45,Martina,Excellent (5),Resolved,,Ticket Portal
+T225,Medium,District of Columbia,Cyber Consultation,Segregation of Duties,IT,On Prem Server,11-05-2021 23:36,12-05-2021 01:18,17-05-2021 21:45,Martina,Good (4),Recommended Threat Assessment,,Ticket Portal
+T226,High,California,Cyber Security Breach,Firewall,IT,On Prem Server,12-05-2021 11:55,12-05-2021 11:58,17-05-2021 09:47,Benny,Excellent (5),Resolved,,Ticket Portal
+T227,High,Colorado,Data Privacy,HIPAA,HR,Vendor Cloud,12-05-2021 11:55,12-05-2021 11:58,17-05-2021 09:47,Benny,Excellent (5),Resolved,,Ticket Portal
+T228,High,Virginia,Cyber Consultation,BCP/DR,IT,On Prem Server,12-05-2021 17:45,12-05-2021 17:46,13-05-2021 11:45,Kareema,Good (4),Advised for a risk assessment,,Ticket Portal
+T229,High,Mississippi,Security Gap,Unauthorized access,Manufacturing,Vendor Cloud,12-05-2021 17:45,12-05-2021 17:46,13-05-2021 11:45,Kareema,Excellent (5),Advised for a risk assessment,,Personal Call
+T23,Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Server,11-01-2021 23:36,12-01-2021 01:18,17-01-2021 21:45,Martina,Excellent (5),Resolved,,Mail
+T230,Low,Illinois,Data Leak,Vishing,HR,On Prem Server,13-05-2021 10:30,13-05-2021 10:40,13-05-2021 19:16,Benny,Excellent (5),Resolved,,Ticket Portal
+T231,High,Alabama,Cyber Security Breach,Spyware,HR,On Prem Cloud,13-05-2021 11:20,13-05-2021 11:20,13-05-2021 12:02,Benny,Excellent (5),Recommended Threat Assessment,,Personal Call
+T232,High,Utah,Data Privacy,GDPR,Finance,On Prem Server,13-05-2021 14:20,13-05-2021 14:28,17-05-2021 10:43,Benny,Excellent (5),Resolved,,Ticket Portal
+T233,Low,California,Cyber Consultation,Database Security,IT,On Prem Server,13-05-2021 21:53,13-05-2021 21:54,17-05-2021 18:36,Charlotte,Excellent (5),Advised for a risk assessment,,Mail
+T234,Low,Massachusetts,Data Privacy,Privacy Assessment,IT,On Prem Cloud,14-05-2021 13:09,14-05-2021 16:35,18-05-2021 17:02,Martina,Excellent (5),Advised for a risk assessment,,Personal Call
+T235,Low,Ohio,Data Leak,Phishing,HR,On Prem Server,17-05-2021 09:56,17-05-2021 09:57,17-05-2021 09:58,Benny,Excellent (5),Resolved,,Ticket Portal
+T236,Low,Florida,Cyber Consultation,Application Offboarding,Manufacturing,On Prem Server,17-05-2021 16:26,17-05-2021 16:28,16-07-2021 09:06,Bob,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T237,Medium,New York,Data Leak,Insider Threat,Marketing,Vendor Cloud,17-05-2021 21:07,17-05-2021 21:17,13-07-2021 18:57,Martina,Unsatisfactory (2),Resolved,,Ticket Portal
+T238,High,California,Cyber Consultation,BCP/DR,Finance,On Prem Cloud,18-05-2021 11:34,18-05-2021 11:35,16-07-2021 12:54,Robbin,Excellent (5),Resolved,,Ticket Portal
+T239,High,New York,Data Privacy,HIPAA,IT,On Prem Server,18-05-2021 20:29,18-05-2021 20:36,02-06-2021 10:13,Charles,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T24,High,California,Cyber Security Breach,Firewall,IT,On Prem Server,12-01-2021 11:55,12-01-2021 11:58,17-01-2021 09:47,Benny,Excellent (5),Resolved,,Ticket Portal
+T240,Low,California,Data Privacy,HIPAA,Manufacturing,Vendor Cloud,18-05-2021 20:43,18-05-2021 20:49,25-05-2021 19:11,Charles,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T241,High,California,Data Leak,Insider Threat,HR,Vendor Cloud,19-05-2021 04:21,19-05-2021 04:22,19-05-2021 04:23,Benny,Unsatisfactory (2),Recommended Threat Assessment,,Personal Call
+T242,Medium,North Carolina,Data Leak,Phishing,Marketing,On Prem Server,19-05-2021 06:13,19-05-2021 06:18,19-05-2021 18:52,Benny,Excellent (5),Recommended Threat Assessment,,Mail
+T243,High,Iowa,Cyber Security Breach,Malware Attack,HR,On Prem Server,19-05-2021 06:14,19-05-2021 06:16,25-05-2021 14:25,Benny,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T244,High,Wisconsin,Cyber Security Breach,Malware Attack,IT,On Prem Server,19-05-2021 13:58,19-05-2021 14:01,02-06-2021 10:20,Martina,Excellent (5),Resolved,,Ticket Portal
+T245,High,California,Data Leak,Vishing,HR,On Prem Server,19-05-2021 18:34,19-05-2021 18:37,24-05-2021 12:17,Martina,Excellent (5),Recommended Threat Assessment,,Personal Call
+T246,Medium,New Jersey,Cyber Consultation,Secure Development,IT,Vendor Cloud,20-05-2021 08:44,20-05-2021 08:45,20-05-2021 08:52,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T247,Low,District of Columbia,Data Privacy,Privacy Assessment,IT,On Prem Server,20-05-2021 15:49,20-05-2021 15:55,28-05-2021 10:11,Cinderalla,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T248,High,New York,Data Privacy,HIPAA,HR,On Prem Server,20-05-2021 21:23,20-05-2021 21:27,20-05-2021 21:27,Martina,Excellent (5),Resolved,,Personal Call
+T249,Low,Florida,Cyber Consultation,Segregation of Duties,Marketing,On Prem Cloud,21-05-2021 18:18,21-05-2021 18:31,09-06-2021 12:11,Robbin,Excellent (5),Resolved,,Ticket Portal
+T25,High,Colorado,Data Privacy,HIPAA,HR,Vendor Cloud,12-01-2021 11:55,12-01-2021 11:58,17-01-2021 09:47,Benny,Excellent (5),Resolved,,Personal Call
+T250,Low,Pennsylvania,Data Privacy,Privacy Assessment,HR,Vendor Cloud,25-05-2021 11:01,25-05-2021 11:05,31-05-2021 11:30,Sebastian,Excellent (5),Resolved,,Ticket Portal
+T251,Medium,Utah,Data Privacy,HIPAA,HR,Vendor Cloud,25-05-2021 18:56,25-05-2021 19:49,25-05-2021 19:49,Sebastian,Excellent (5),Advised for a risk assessment,,Mail
+T252,High,California,Data Privacy,GDPR,IT,On Prem Cloud,25-05-2021 23:29,25-05-2021 23:37,03-06-2021 18:54,Martina,Excellent (5),Advised for a risk assessment,,Mail
+T253,High,Virginia,Data Leak,Phishing,Finance,Vendor Cloud,26-05-2021 11:43,26-05-2021 11:44,26-05-2021 11:46,Kareema,Excellent (5),Resolved,,Ticket Portal
+T254,High,Florida,Security Gap,Obsolete Software,Manufacturing,On Prem Cloud,26-05-2021 19:27,26-05-2021 19:30,22-09-2021 11:17,Robbin,Good (4),Recommended Threat Assessment,,Ticket Portal
+T255,High,Michigan,Data Privacy,PCI-DSS,IT,On Prem Cloud,27-05-2021 15:20,27-05-2021 15:21,27-05-2021 15:40,Martina,Unsatisfactory (2),Resolved,,Ticket Portal
+T256,High,North Carolina,Cyber Security Breach,Malware Attack,IT,On Prem Server,27-05-2021 15:58,27-05-2021 16:15,08-06-2021 09:23,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T257,Low,Georgia,Data Leak,Insider Threat,Legal,Vendor Cloud,27-05-2021 16:21,27-05-2021 16:24,03-06-2021 19:36,Allan,Excellent (5),Resolved,,Ticket Portal
+T258,Medium,California,Data Privacy,Privacy Assessment,Finance,On Prem Cloud,27-05-2021 17:44,27-05-2021 18:14,03-06-2021 19:26,Sylviya,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T259,Low,Washington,Cyber Consultation,Secure Development,HR,Vendor Cloud,27-05-2021 21:00,27-05-2021 21:00,27-05-2021 21:20,Martina,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T26,High,Virginia,Cyber Consultation,BCP/DR,IT,On Prem Server,12-01-2021 17:45,12-01-2021 17:46,13-01-2021 11:45,Kareema,Good (4),Advised for a risk assessment,,Ticket Portal
+T260,Low,Washington,Cyber Consultation,New Application Launch,Finance,On Prem Server,28-05-2021 15:09,28-05-2021 15:12,22-06-2021 16:21,Kareema,Good (4),Resolved,,Ticket Portal
+T261,Medium,Tennessee,Cyber Consultation,BCP/DR,IT,On Prem Server,28-05-2021 20:30,31-05-2021 08:53,15-06-2021 11:00,Martina,Excellent (5),Advised for a risk assessment,,Mail
+T262,Medium,Connecticut,Security Gap,Obsolete Software,Finance,On Prem Server,31-05-2021 09:37,31-05-2021 09:37,31-05-2021 09:40,Allan,Satisfactory (3),Resolved,,Ticket Portal
+T263,Low,California,Cyber Consultation,New Application Launch,Finance,On Prem Server,31-05-2021 09:46,31-05-2021 09:47,31-05-2021 09:51,Allan,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T264,Medium,Wisconsin,Data Privacy,Privacy Assessment,IT,On Prem Server,31-05-2021 09:46,31-05-2021 09:47,03-06-2021 19:56,Allan,Satisfactory (3),Resolved,,Mail
+T265,High,Connecticut,Cyber Consultation,Segregation of Duties,Finance,On Prem Server,31-05-2021 09:46,31-05-2021 09:47,31-05-2021 09:57,Allan,Excellent (5),Resolved,,Ticket Portal
+T266,Medium,Illinois,Cyber Consultation,Third Party Engagement,IT,On Prem Server,31-05-2021 10:04,31-05-2021 10:04,06-07-2021 09:35,Allan,Unsatisfactory (2),Resolved,,Mail
+T267,Low,California,Cyber Consultation,BCP/DR,Marketing,Vendor Cloud,31-05-2021 11:13,31-05-2021 11:13,31-05-2021 11:38,Allan,Satisfactory (3),Resolved,,Ticket Portal
+T268,High,Florida,Cyber Security Breach,Malware Attack,IT,On Prem Cloud,31-05-2021 15:53,31-05-2021 15:56,04-06-2021 12:27,Sylviya,Excellent (5),Recommended Threat Assessment,,Personal Call
+T269,Medium,Maryland,Security Gap,Password non-expiry,Finance,On Prem Server,01-06-2021 10:58,01-06-2021 11:00,07-06-2021 10:45,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T27,High,Alabama,Cyber Security Breach,Spyware,HR,On Prem Cloud,13-01-2021 11:20,13-01-2021 11:20,13-01-2021 12:02,Benny,Excellent (5),Recommended Threat Assessment,,Mail
+T270,Low,Utah,Security Gap,Unauthorized software,Legal,Vendor Cloud,02-06-2021 15:56,02-06-2021 16:02,09-06-2021 19:23,Cinderalla,Good (4),Resolved,,Ticket Portal
+T271,High,New York,Cyber Security Breach,Malware Attack,Finance,On Prem Server,02-06-2021 16:28,02-06-2021 16:31,14-06-2021 15:50,Charlotte,Excellent (5),Resolved,,Personal Call
+T272,High,Texas,Cyber Security Breach,Malware Attack,Marketing,Vendor Cloud,02-06-2021 17:52,02-06-2021 17:59,15-07-2021 17:32,Martina,Excellent (5),Resolved,,Mail
+T273,Low,Texas,Cyber Consultation,Application Offboarding,HR,On Prem Server,02-06-2021 22:41,02-06-2021 23:12,03-06-2021 20:33,Martina,Excellent (5),Resolved,,Personal Call
+T274,High,New York,Data Leak,Phishing,IT,On Prem Server,03-06-2021 17:54,04-06-2021 16:02,21-09-2021 09:53,Martina,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T275,Medium,California,Data Privacy,HIPAA,HR,On Prem Cloud,04-06-2021 15:11,04-06-2021 15:12,08-06-2021 09:55,Martina,Unsatisfactory (2),Resolved,,Ticket Portal
+T276,High,Texas,Cyber Consultation,Database Security,IT,On Prem Server,07-06-2021 11:03,07-06-2021 11:04,07-06-2021 11:05,Sebastian,Good (4),Advised for a risk assessment,,Ticket Portal
+T277,Low,Virginia,Data Privacy,Privacy Assessment,IT,On Prem Server,07-06-2021 16:14,07-06-2021 17:03,08-06-2021 12:03,Charles,Good (4),Recommended Threat Assessment,,Ticket Portal
+T278,High,Virginia,Data Privacy,HIPAA,Manufacturing,On Prem Server,07-06-2021 23:13,08-06-2021 07:36,23-06-2021 19:47,Martina,Unsatisfactory (2),Advised for a risk assessment,Yes,Ticket Portal
+T279,High,New York,Cyber Consultation,Third Party Engagement,IT,On Prem Server,08-06-2021 15:33,08-06-2021 15:35,08-06-2021 20:08,Bob,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T28,High,Utah,Data Privacy,GDPR,Finance,On Prem Server,13-01-2021 14:20,13-01-2021 14:28,17-01-2021 10:43,Benny,Excellent (5),Resolved,,Ticket Portal
+T280,Low,Texas,Data Privacy,PCI-DSS,Manufacturing,On Prem Cloud,08-06-2021 17:18,08-06-2021 17:27,24-06-2021 09:52,Bob,Unsatisfactory (2),Recommended Threat Assessment,Yes,Ticket Portal
+T281,Medium,Utah,Cyber Consultation,New Application Launch,Manufacturing,On Prem Server,08-06-2021 18:30,09-06-2021 14:01,14-06-2021 12:59,Veronica,Good (4),Advised for a risk assessment,,Ticket Portal
+T282,High,Washington,Cyber Consultation,Application Offboarding,Legal,On Prem Cloud,08-06-2021 19:30,08-06-2021 20:30,09-06-2021 10:55,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T283,High,Ohio,Data Privacy,HIPAA,HR,On Prem Cloud,09-06-2021 11:04,09-06-2021 11:08,15-06-2021 17:23,Charles,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T284,Low,Massachusetts,Cyber Consultation,New Application Launch,Legal,On Prem Server,09-06-2021 18:56,09-06-2021 19:07,01-07-2021 22:06,Cinderalla,Satisfactory (3),Resolved,,Personal Call
+T285,High,Florida,Data Leak,Phishing,Finance,On Prem Server,09-06-2021 19:44,09-06-2021 19:54,28-07-2021 21:50,Aleena,Excellent (5),Advised for a risk assessment,,Mail
+T286,High,New York,Cyber Consultation,Application Offboarding,Marketing,Vendor Cloud,09-06-2021 19:57,09-06-2021 19:59,16-06-2021 10:20,Cinderalla,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T287,Medium,Virginia,Cyber Consultation,Access Management,Legal,On Prem Cloud,10-06-2021 11:42,10-06-2021 11:45,22-07-2021 11:06,Michael,Good (4),Resolved,,Ticket Portal
+T288,Low,Florida,Data Privacy,PCI-DSS,HR,On Prem Cloud,10-06-2021 19:35,10-06-2021 19:44,11-06-2021 18:57,Sebastian,Unsatisfactory (2),Recommended Threat Assessment,Yes,Ticket Portal
+T289,Low,Illinois,Data Privacy,HIPAA,HR,On Prem Server,11-06-2021 16:46,11-06-2021 16:48,11-06-2021 16:48,Robbin,Excellent (5),Recommended Threat Assessment,,Personal Call
+T29,Low,California,Cyber Consultation,Database Security,IT,On Prem Server,13-01-2021 21:53,13-01-2021 21:54,17-01-2021 18:36,Charlotte,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T290,Medium,California,Data Privacy,GDPR,IT,Vendor Cloud,11-06-2021 19:22,11-06-2021 19:22,11-06-2021 19:23,Robbin,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T291,High,New York,Data Leak,Insider Threat,IT,On Prem Server,11-06-2021 23:15,12-06-2021 08:29,18-06-2021 11:48,Charles,Good (4),Resolved,,Ticket Portal
+T292,Medium,Illinois,Security Gap,Password non-expiry,Legal,On Prem Cloud,14-06-2021 11:43,14-06-2021 11:46,22-06-2021 19:02,Michael,Satisfactory (3),Advised for a risk assessment,,Mail
+T293,Medium,Kansas,Security Gap,Obsolete Software,IT,Vendor Cloud,14-06-2021 11:55,14-06-2021 11:57,28-06-2021 14:10,Sebastian,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T294,High,Florida,Data Leak,Vishing,IT,On Prem Cloud,14-06-2021 12:07,14-06-2021 12:07,14-06-2021 12:09,Michael,Excellent (5),Resolved,,Personal Call
+T295,High,New York,Cyber Consultation,BCP/DR,Finance,Vendor Cloud,14-06-2021 14:00,14-06-2021 14:04,24-06-2021 11:01,Cinderalla,Satisfactory (3),Advised for a risk assessment,,Personal Call
+T296,High,Texas,Data Privacy,HIPAA,IT,On Prem Server,15-06-2021 00:16,15-06-2021 00:22,30-06-2021 18:18,Sebastian,Good (4),Resolved,,Personal Call
+T297,High,New York,Cyber Security Breach,Firewall,IT,On Prem Server,15-06-2021 17:07,15-06-2021 17:13,24-06-2021 20:13,Sylviya,Excellent (5),Resolved,,Mail
+T298,High,Massachusetts,Cyber Security Breach,Spyware,Finance,On Prem Server,15-06-2021 18:27,15-06-2021 18:33,22-06-2021 19:07,Michael,Satisfactory (3),Resolved,,Ticket Portal
+T299,High,Michigan,Data Leak,Phishing,Finance,On Prem Server,16-06-2021 20:45,16-06-2021 20:46,16-06-2021 20:51,Robbin,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T30,High,California,Cyber Consultation,BCP/DR,Finance,On Prem Cloud,18-01-2021 11:34,18-01-2021 11:35,16-07-2021 12:54,Robbin,Excellent (5),Resolved,,Mail
+T300,High,Nevada,Data Leak,Vishing,HR,On Prem Server,17-06-2021 12:19,17-06-2021 12:20,29-06-2021 13:16,Robbin,Excellent (5),Recommended Threat Assessment,,Personal Call
+T301,Low,Colorado,Data Leak,Phishing,Finance,On Prem Server,18-06-2021 16:41,18-06-2021 16:41,18-06-2021 19:38,Robbin,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T302,High,Texas,Data Privacy,GDPR,Legal,On Prem Server,18-06-2021 19:35,18-06-2021 19:35,21-06-2021 18:27,Veronica,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T303,Low,Kentucky,Cyber Consultation,Encryption,IT,On Prem Server,21-06-2021 10:55,21-06-2021 10:57,22-06-2021 16:24,Kareema,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T304,Medium,Maryland,Cyber Consultation,Application Offboarding,Legal,Vendor Cloud,21-06-2021 11:12,21-06-2021 11:13,25-06-2021 16:52,Kareema,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T305,Low,California,Cyber Consultation,Third Party Engagement,Legal,On Prem Server,21-06-2021 16:03,21-06-2021 16:10,25-06-2021 15:11,Charles,Excellent (5),Advised for a risk assessment,,Personal Call
+T306,Medium,Illinois,Data Leak,Phishing,HR,On Prem Cloud,21-06-2021 20:08,21-06-2021 20:20,26-06-2021 10:59,Cinderalla,Good (4),Advised for a risk assessment,,Mail
+T307,Low,Virginia,Data Leak,Insider Threat,Finance,Vendor Cloud,22-06-2021 15:04,22-06-2021 15:09,01-07-2021 00:38,Sean,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T308,Medium,New Jersey,Data Privacy,PCI-DSS,IT,On Prem Server,22-06-2021 17:44,22-06-2021 17:44,22-06-2021 17:47,Robbin,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T309,High,South Carolina,Cyber Security Breach,Spyware,Legal,On Prem Server,23-06-2021 13:26,23-06-2021 13:26,23-06-2021 13:28,Michael,Good (4),Recommended Threat Assessment,,Ticket Portal
+T31,High,California,Data Leak,Insider Threat,HR,Vendor Cloud,19-01-2021 04:21,19-01-2021 04:22,19-01-2021 04:23,Benny,Unsatisfactory (2),Recommended Threat Assessment,No,Ticket Portal
+T310,High,Virginia,Cyber Security Breach,Malware Attack,IT,On Prem Cloud,23-06-2021 13:30,23-06-2021 13:31,23-06-2021 13:32,Michael,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T311,Medium,Massachusetts,Cyber Consultation,Access Management,Marketing,On Prem Server,23-06-2021 15:31,23-06-2021 15:37,24-06-2021 16:50,Charles,Excellent (5),Resolved,,Ticket Portal
+T312,High,Georgia,Cyber Security Breach,Firewall,Manufacturing,Vendor Cloud,23-06-2021 17:29,23-06-2021 17:50,06-07-2021 14:33,Sean,Excellent (5),Advised for a risk assessment,,Personal Call
+T313,Low,New York,Security Gap,Obsolete Software,Legal,On Prem Server,23-06-2021 19:07,23-06-2021 19:09,23-06-2021 19:55,Cinderalla,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T314,High,North Carolina,Cyber Security Breach,Malware Attack,Marketing,On Prem Server,25-06-2021 16:12,25-06-2021 16:13,25-06-2021 22:46,Charlotte,Excellent (5),Resolved,,Ticket Portal
+T315,High,California,Data Leak,Phishing,IT,On Prem Server,25-06-2021 20:27,25-06-2021 21:33,04-08-2021 13:46,Michael,Unsatisfactory (2),Resolved,,Personal Call
+T316,High,Virginia,Data Privacy,GDPR,Marketing,On Prem Server,28-06-2021 14:31,28-06-2021 14:32,29-06-2021 17:07,Kareema,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T317,Low,California,Data Privacy,PCI-DSS,Marketing,Vendor Cloud,30-06-2021 19:00,30-06-2021 19:03,30-08-2021 18:38,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T318,High,Florida,Data Privacy,Privacy Assessment,IT,On Prem Cloud,30-06-2021 20:20,30-06-2021 20:20,30-06-2021 20:26,Allan,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T319,Low,Louisiana,Cyber Consultation,Access Management,Marketing,On Prem Server,30-06-2021 20:31,30-06-2021 20:31,30-06-2021 20:33,Allan,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T32,High,Iowa,Cyber Security Breach,Malware Attack,HR,On Prem Server,19-01-2021 06:14,19-01-2021 06:16,25-01-2021 14:25,Benny,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T320,Medium,California,Cyber Consultation,New Application Launch,Manufacturing,Vendor Cloud,30-06-2021 20:36,30-06-2021 20:36,30-06-2021 20:39,Allan,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T321,Medium,Illinois,Cyber Consultation,New Application Launch,Finance,On Prem Server,30-06-2021 20:41,30-06-2021 20:42,30-06-2021 20:44,Allan,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T322,High,Indiana,Data Leak,Insider Threat,Marketing,On Prem Server,30-06-2021 20:46,30-06-2021 20:47,30-06-2021 20:50,Allan,Excellent (5),Recommended Threat Assessment,,Personal Call
+T323,Medium,Alabama,Data Privacy,PCI-DSS,HR,On Prem Server,30-06-2021 20:52,30-06-2021 21:02,30-06-2021 21:02,Allan,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T324,Low,California,Data Leak,Insider Threat,Manufacturing,On Prem Cloud,30-06-2021 21:07,30-06-2021 21:07,30-06-2021 21:11,Allan,Excellent (5),Recommended Threat Assessment,,Mail
+T325,High,Wisconsin,Data Privacy,HIPAA,Marketing,On Prem Server,30-06-2021 21:39,01-07-2021 11:26,12-07-2021 12:01,Robbin,Satisfactory (3),Resolved,,Ticket Portal
+T326,High,District of Columbia,Cyber Security Breach,Spyware,Legal,On Prem Cloud,01-07-2021 19:12,01-07-2021 19:17,13-07-2021 17:55,Michael,Excellent (5),Resolved,,Ticket Portal
+T327,Low,New York,Cyber Consultation,BCP/DR,Manufacturing,Vendor Cloud,01-07-2021 20:03,01-07-2021 20:06,12-07-2021 13:39,Cinderalla,Good (4),Resolved,,Ticket Portal
+T328,Medium,Florida,Data Privacy,PCI-DSS,Marketing,On Prem Server,05-07-2021 12:44,05-07-2021 12:47,14-07-2021 20:14,Bob,Excellent (5),Advised for a risk assessment,,Personal Call
+T329,High,North Carolina,Cyber Security Breach,Firewall,Legal,Vendor Cloud,05-07-2021 16:00,05-07-2021 16:02,13-07-2021 17:48,Bob,Excellent (5),Resolved,,Ticket Portal
+T33,Medium,New Jersey,Cyber Consultation,Secure Development,IT,Vendor Cloud,20-01-2021 08:44,20-01-2021 08:45,20-01-2021 08:52,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T330,Medium,Georgia,Data Leak,Phishing,HR,On Prem Cloud,06-07-2021 17:38,06-07-2021 18:00,08-07-2021 18:28,Charles,Good (4),Resolved,,Personal Call
+T331,High,Nebraska,Cyber Consultation,Third Party Engagement,IT,On Prem Server,06-07-2021 21:15,06-07-2021 21:19,07-07-2021 21:33,Veronica,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T332,High,California,Data Leak,Vishing,Marketing,On Prem Server,07-07-2021 18:36,07-07-2021 18:37,14-07-2021 11:47,Aleena,Excellent (5),Resolved,,Personal Call
+T333,High,Minnesota,Security Gap,Obsolete Software,Legal,On Prem Cloud,07-07-2021 21:39,07-07-2021 21:43,09-07-2021 19:51,Sylviya,Good (4),Advised for a risk assessment,,Ticket Portal
+T334,Medium,Hawaii,Data Privacy,GDPR,IT,On Prem Cloud,08-07-2021 01:39,08-07-2021 01:39,08-07-2021 01:39,Michael,Excellent (5),Advised for a risk assessment,,Personal Call
+T335,Medium,District of Columbia,Cyber Consultation,Database Security,Legal,On Prem Server,08-07-2021 17:26,08-07-2021 18:56,19-07-2021 10:54,Cinderalla,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T336,Low,Florida,Security Gap,Unauthorized software,Legal,Vendor Cloud,09-07-2021 11:48,09-07-2021 11:49,09-07-2021 11:50,Michael,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T337,Low,Florida,Data Leak,Insider Threat,Legal,On Prem Server,09-07-2021 21:08,09-07-2021 21:34,19-07-2021 14:34,Bob,Excellent (5),Resolved,,Mail
+T338,High,Virginia,Cyber Security Breach,Firewall,Finance,On Prem Server,09-07-2021 21:31,09-07-2021 21:35,21-07-2021 15:12,Bob,Unsatisfactory (2),Recommended Threat Assessment,,Personal Call
+T339,High,Tennessee,Security Gap,Obsolete Software,IT,On Prem Server,10-07-2021 00:33,10-07-2021 00:41,24-07-2021 01:14,Charlotte,Good (4),Resolved,,Personal Call
+T34,Low,Florida,Cyber Consultation,Segregation of Duties,Marketing,On Prem Cloud,21-01-2021 18:18,21-01-2021 18:31,09-06-2021 12:11,Robbin,Excellent (5),Resolved,,Ticket Portal
+T340,Low,District of Columbia,Data Privacy,GDPR,Marketing,Vendor Cloud,12-07-2021 14:57,12-07-2021 15:24,19-07-2021 10:03,Charles,Unsatisfactory (2),Resolved,,Ticket Portal
+T341,Medium,New York,Cyber Consultation,Access Management,Marketing,On Prem Server,13-07-2021 23:18,13-07-2021 23:32,15-07-2021 17:54,Sean,Excellent (5),Advised for a risk assessment,,Mail
+T342,High,Pennsylvania,Data Privacy,Privacy Assessment,Legal,On Prem Server,14-07-2021 12:52,14-07-2021 12:54,14-07-2021 12:55,Charles,Excellent (5),Resolved,,Personal Call
+T343,Low,North Carolina,Data Privacy,PCI-DSS,IT,On Prem Server,14-07-2021 21:37,16-07-2021 18:04,16-07-2021 18:04,Charlotte,Excellent (5),Recommended Threat Assessment,,Mail
+T344,High,Indiana,Cyber Consultation,Application Offboarding,Finance,Vendor Cloud,15-07-2021 15:34,15-07-2021 15:36,21-07-2021 16:54,Kareema,Good (4),Resolved,,Mail
+T345,Low,Colorado,Security Gap,Obsolete Software,HR,Vendor Cloud,16-07-2021 16:02,16-07-2021 16:04,22-07-2021 22:31,Aleena,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T346,Medium,California,Data Privacy,PCI-DSS,Manufacturing,On Prem Server,16-07-2021 16:03,16-07-2021 16:04,22-07-2021 22:26,Aleena,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T347,Medium,New Hampshire,Cyber Consultation,New Application Launch,Manufacturing,Vendor Cloud,16-07-2021 20:04,18-07-2021 16:50,22-07-2021 11:38,Charles,Excellent (5),Resolved,,Ticket Portal
+T348,Low,California,Data Leak,Phishing,IT,On Prem Server,18-07-2021 17:55,19-07-2021 08:39,17-08-2021 22:07,Michael,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T349,High,Florida,Security Gap,Obsolete Software,Legal,Vendor Cloud,19-07-2021 10:56,19-07-2021 10:58,21-07-2021 14:54,Sebastian,Unsatisfactory (2),Resolved,,Ticket Portal
+T35,Medium,Utah,Data Privacy,HIPAA,HR,Vendor Cloud,25-01-2021 18:56,25-01-2021 19:49,25-01-2021 19:49,Sebastian,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T350,Medium,Pennsylvania,Data Leak,Phishing,Marketing,On Prem Server,20-07-2021 18:21,20-07-2021 18:23,21-07-2021 12:38,Michael,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T351,Medium,California,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,20-07-2021 20:00,20-07-2021 20:02,21-07-2021 12:43,Michael,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T352,Low,New Jersey,Data Privacy,GDPR,HR,Vendor Cloud,20-07-2021 20:03,20-07-2021 20:18,20-07-2021 20:20,Michael,Good (4),Resolved,,Mail
+T353,Low,Washington,Data Privacy,PCI-DSS,IT,Vendor Cloud,21-07-2021 16:32,21-07-2021 16:37,22-07-2021 11:40,Charles,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T354,Low,Illinois,Data Privacy,HIPAA,Finance,On Prem Server,21-07-2021 22:01,21-07-2021 22:34,22-07-2021 16:19,Michael,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T355,Low,Oregon,Data Privacy,GDPR,Legal,Vendor Cloud,23-07-2021 17:40,23-07-2021 17:49,28-07-2021 18:43,Martina,Excellent (5),Resolved,,Ticket Portal
+T356,Low,Utah,Data Privacy,Privacy Assessment,IT,On Prem Server,23-07-2021 20:39,26-07-2021 12:27,04-08-2021 09:29,Charles,Excellent (5),Resolved,,Ticket Portal
+T357,High,California,Data Privacy,Privacy Assessment,HR,Vendor Cloud,26-07-2021 20:18,26-07-2021 20:20,26-07-2021 20:21,Michael,Good (4),Advised for a risk assessment,,Ticket Portal
+T358,Low,Iowa,Data Privacy,PCI-DSS,Finance,Vendor Cloud,26-07-2021 20:23,26-07-2021 20:24,03-08-2021 17:40,Robbin,Good (4),Resolved,,Personal Call
+T359,High,Connecticut,Cyber Security Breach,Spyware,HR,On Prem Server,27-07-2021 11:07,27-07-2021 11:10,29-07-2021 21:29,Kareema,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T36,High,California,Data Privacy,GDPR,IT,On Prem Cloud,25-01-2021 23:29,25-01-2021 23:37,03-06-2021 18:54,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T360,High,Rhode Island,Cyber Security Breach,Malware Attack,Finance,On Prem Server,27-07-2021 11:38,27-07-2021 11:38,27-07-2021 11:57,Allan,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T361,High,Arizona,Data Privacy,GDPR,Finance,On Prem Server,27-07-2021 12:06,27-07-2021 12:07,27-07-2021 12:12,Allan,Excellent (5),Resolved,,Mail
+T362,Low,Florida,Data Leak,Insider Threat,Legal,Vendor Cloud,27-07-2021 12:23,27-07-2021 12:37,27-07-2021 12:41,Allan,Unsatisfactory (2),Advised for a risk assessment,Yes,Ticket Portal
+T363,High,California,Cyber Security Breach,Spyware,Marketing,Vendor Cloud,27-07-2021 13:54,27-07-2021 13:57,03-11-2021 19:17,Benny,Good (4),Advised for a risk assessment,,Ticket Portal
+T364,High,North Carolina,Cyber Security Breach,Firewall,IT,On Prem Server,27-07-2021 17:17,27-07-2021 17:25,19-08-2021 00:10,Martina,Good (4),Resolved,,Ticket Portal
+T365,Medium,California,Data Privacy,Privacy Assessment,HR,On Prem Cloud,27-07-2021 19:16,27-07-2021 19:25,27-07-2021 19:25,Robbin,Excellent (5),Resolved,,Ticket Portal
+T366,Low,California,Data Privacy,HIPAA,Finance,Vendor Cloud,27-07-2021 21:03,27-07-2021 21:34,28-07-2021 18:10,Martina,Good (4),Resolved,,Ticket Portal
+T367,High,Florida,Cyber Security Breach,Malware Attack,Marketing,On Prem Server,27-07-2021 21:38,28-07-2021 10:39,09-08-2021 18:29,Cinderalla,Unsatisfactory (2),Recommended Threat Assessment,Yes,Mail
+T368,Low,Texas,Data Privacy,PCI-DSS,HR,On Prem Server,28-07-2021 16:51,28-07-2021 21:51,06-08-2021 14:53,Aleena,Good (4),Advised for a risk assessment,,Ticket Portal
+T369,Low,California,Data Privacy,GDPR,HR,On Prem Server,28-07-2021 23:43,28-07-2021 23:43,28-07-2021 23:43,Michael,Satisfactory (3),Resolved,,Ticket Portal
+T37,High,Michigan,Data Privacy,PCI-DSS,IT,On Prem Cloud,27-01-2021 15:20,27-01-2021 15:21,27-01-2021 15:40,Martina,Unsatisfactory (2),Resolved,No,Ticket Portal
+T370,Low,New York,Data Privacy,GDPR,Finance,Vendor Cloud,29-07-2021 12:47,29-07-2021 13:09,04-08-2021 13:48,Michael,Excellent (5),Resolved,,Personal Call
+T371,Low,South Carolina,Security Gap,Unauthorized access,HR,On Prem Cloud,29-07-2021 18:47,29-07-2021 18:50,13-08-2021 12:58,Robbin,Satisfactory (3),Resolved,,Ticket Portal
+T372,High,Pennsylvania,Cyber Security Breach,Spyware,HR,On Prem Server,29-07-2021 18:53,29-07-2021 18:55,16-08-2021 18:24,Sebastian,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T373,High,Ohio,Cyber Security Breach,Trojan Attack,IT,On Prem Cloud,30-07-2021 16:44,30-07-2021 16:45,03-08-2021 17:39,Robbin,Good (4),Advised for a risk assessment,,Ticket Portal
+T374,High,New York,Data Privacy,PCI-DSS,Finance,On Prem Server,30-07-2021 20:31,02-08-2021 11:14,05-08-2021 17:28,Charles,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T375,High,New Jersey,Data Privacy,GDPR,Legal,Vendor Cloud,02-08-2021 10:42,02-08-2021 10:45,04-08-2021 10:29,Charles,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T376,High,California,Cyber Security Breach,Firewall,Marketing,Vendor Cloud,02-08-2021 19:12,02-08-2021 19:19,16-08-2021 18:28,Martina,Good (4),Advised for a risk assessment,,Ticket Portal
+T377,Medium,Massachusetts,Data Leak,Insider Threat,HR,On Prem Cloud,04-08-2021 04:04,04-08-2021 12:10,09-09-2021 19:53,Charlotte,Excellent (5),Resolved,,Personal Call
+T378,Low,Florida,Cyber Consultation,Application Offboarding,Legal,On Prem Server,04-08-2021 11:42,04-08-2021 11:46,07-09-2021 15:11,Michael,Satisfactory (3),Resolved,,Ticket Portal
+T379,High,California,Cyber Consultation,Database Security,IT,On Prem Cloud,04-08-2021 13:05,04-08-2021 13:37,13-08-2021 18:47,Sean,Excellent (5),Advised for a risk assessment,,Personal Call
+T38,Low,Georgia,Data Leak,Insider Threat,Legal,Vendor Cloud,27-01-2021 16:21,27-01-2021 16:24,03-06-2021 19:36,Allan,Excellent (5),Resolved,,Mail
+T380,Medium,California,Data Leak,Insider Threat,Manufacturing,On Prem Server,04-08-2021 14:41,04-08-2021 14:46,26-08-2021 21:48,Michael,Excellent (5),Resolved,,Ticket Portal
+T381,Medium,New York,Data Privacy,PCI-DSS,Legal,On Prem Server,04-08-2021 14:44,04-08-2021 14:44,05-08-2021 18:25,Sean,Satisfactory (3),Recommended Threat Assessment,,Mail
+T382,Medium,Alabama,Data Privacy,PCI-DSS,IT,On Prem Server,04-08-2021 14:50,04-08-2021 14:50,19-08-2021 22:47,Sean,Good (4),Advised for a risk assessment,,Ticket Portal
+T383,Medium,New York,Data Leak,Insider Threat,IT,On Prem Server,04-08-2021 15:00,04-08-2021 15:01,23-08-2021 19:30,Veronica,Satisfactory (3),Resolved,,Ticket Portal
+T384,High,Florida,Data Leak,Phishing,Marketing,On Prem Server,04-08-2021 19:13,04-08-2021 19:16,05-08-2021 17:16,Charles,Excellent (5),Advised for a risk assessment,,Mail
+T385,High,Colorado,Cyber Security Breach,Malware Attack,IT,On Prem Server,04-08-2021 19:34,04-08-2021 20:05,17-08-2021 18:44,Martina,Good (4),Resolved,,Ticket Portal
+T386,Low,Idaho,Data Privacy,PCI-DSS,HR,On Prem Cloud,04-08-2021 22:54,05-08-2021 12:30,22-08-2021 19:09,Bob,Excellent (5),Resolved,,Mail
+T387,Low,New Jersey,Data Privacy,HIPAA,Finance,On Prem Server,05-08-2021 18:19,05-08-2021 18:25,10-08-2021 13:07,Cinderalla,Satisfactory (3),Recommended Threat Assessment,,Personal Call
+T388,High,Michigan,Data Leak,Insider Threat,IT,Vendor Cloud,05-08-2021 18:58,05-08-2021 19:01,13-08-2021 12:56,Robbin,Good (4),Advised for a risk assessment,,Ticket Portal
+T389,Low,District of Columbia,Data Privacy,HIPAA,HR,On Prem Cloud,05-08-2021 19:24,05-08-2021 19:25,05-08-2021 22:13,Veronica,Good (4),Resolved,,Ticket Portal
+T39,Medium,California,Data Privacy,Privacy Assessment,Finance,On Prem Cloud,27-01-2021 17:44,27-01-2021 18:14,03-06-2021 19:26,Martina,Unsatisfactory (2),Recommended Threat Assessment,Yes,Mail
+T390,High,Maryland,Cyber Security Breach,Malware Attack,HR,On Prem Server,06-08-2021 10:04,06-08-2021 10:05,10-08-2021 17:45,Charles,Excellent (5),Resolved,,Ticket Portal
+T391,High,Illinois,Cyber Consultation,BCP/DR,Finance,On Prem Server,06-08-2021 11:34,06-08-2021 11:38,09-08-2021 18:46,Cinderalla,Good (4),Resolved,,Ticket Portal
+T392,High,Georgia,Cyber Consultation,Secure Development,Manufacturing,On Prem Server,06-08-2021 13:02,06-08-2021 13:05,13-08-2021 12:44,Charles,Unsatisfactory (2),Resolved,Yes,Mail
+T393,Low,Texas,Cyber Consultation,Secure Development,Manufacturing,On Prem Server,06-08-2021 13:09,06-08-2021 13:10,06-08-2021 13:17,Veronica,Satisfactory (3),Resolved,,Ticket Portal
+T394,Low,California,Data Privacy,GDPR,Finance,On Prem Server,06-08-2021 13:23,06-08-2021 13:25,06-08-2021 13:26,Veronica,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T395,High,New York,Cyber Security Breach,Firewall,Marketing,Vendor Cloud,06-08-2021 15:03,17-09-2021 13:24,22-09-2021 10:09,Sebastian,Good (4),Advised for a risk assessment,,Ticket Portal
+T396,Low,Nevada,Data Leak,Vishing,Finance,On Prem Cloud,06-08-2021 21:42,08-08-2021 09:17,18-10-2021 11:47,Cinderalla,Good (4),Resolved,,Ticket Portal
+T397,High,Maryland,Data Leak,Insider Threat,IT,On Prem Cloud,09-08-2021 17:33,09-08-2021 17:35,11-08-2021 08:48,Allan,Good (4),Resolved,,Ticket Portal
+T398,High,Washington,Data Privacy,HIPAA,Finance,On Prem Server,09-08-2021 22:14,10-08-2021 10:18,23-08-2021 17:25,Cinderalla,Excellent (5),Resolved,,Ticket Portal
+T399,High,Illinois,Cyber Consultation,BCP/DR,Finance,On Prem Server,10-08-2021 14:27,10-08-2021 14:30,11-08-2021 12:43,Cinderalla,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T40,Low,Washington,Cyber Consultation,Secure Development,HR,Vendor Cloud,27-01-2021 21:00,27-01-2021 21:00,27-01-2021 21:20,Martina,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T400,High,Texas,Cyber Security Breach,Trojan Attack,Manufacturing,Vendor Cloud,10-08-2021 19:42,10-08-2021 19:47,18-08-2021 09:54,Cinderalla,Excellent (5),Advised for a risk assessment,,Personal Call
+T401,High,West Virginia,Cyber Consultation,Encryption,IT,On Prem Cloud,10-08-2021 23:16,11-08-2021 09:43,13-08-2021 19:02,Charles,Excellent (5),Advised for a risk assessment,,Mail
+T402,Low,Ohio,Data Privacy,Privacy Assessment,Finance,On Prem Server,11-08-2021 19:22,11-08-2021 19:25,17-08-2021 17:19,Charles,Satisfactory (3),Resolved,,Ticket Portal
+T403,Low,Indiana,Data Privacy,Privacy Assessment,HR,On Prem Server,12-08-2021 14:22,12-08-2021 14:27,16-08-2021 22:01,Cinderalla,Excellent (5),Advised for a risk assessment,,Mail
+T404,Medium,Georgia,Data Privacy,Privacy Assessment,IT,On Prem Server,12-08-2021 15:16,13-08-2021 12:34,16-09-2021 14:45,Robbin,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T405,High,Delaware,Cyber Security Breach,Trojan Attack,HR,On Prem Server,13-08-2021 13:35,13-08-2021 13:42,17-08-2021 20:54,Sylviya,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T406,Low,California,Data Privacy,PCI-DSS,Manufacturing,Vendor Cloud,13-08-2021 14:39,13-08-2021 14:40,25-08-2021 17:25,Sebastian,Good (4),Recommended Threat Assessment,,Personal Call
+T407,Medium,Georgia,Data Privacy,HIPAA,IT,Vendor Cloud,13-08-2021 17:30,13-08-2021 22:27,16-08-2021 23:06,Martina,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T408,Low,Virginia,Data Leak,Phishing,IT,Vendor Cloud,14-08-2021 00:01,30-08-2021 12:34,07-09-2021 18:27,Robbin,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T409,High,Washington,Data Privacy,PCI-DSS,Finance,On Prem Server,14-08-2021 01:33,16-08-2021 09:18,20-08-2021 18:47,Veronica,Excellent (5),Recommended Threat Assessment,,Personal Call
+T41,Medium,Tennessee,Cyber Consultation,BCP/DR,IT,On Prem Server,28-01-2021 20:30,31-01-2021 08:53,15-06-2021 11:00,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T410,Low,California,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,16-08-2021 13:33,16-08-2021 13:35,23-08-2021 19:23,Veronica,Excellent (5),Resolved,,Personal Call
+T411,High,Georgia,Data Privacy,GDPR,Finance,Vendor Cloud,16-08-2021 15:02,16-08-2021 15:05,19-08-2021 14:15,Aleena,Good (4),Resolved,,Ticket Portal
+T412,Medium,North Carolina,Cyber Consultation,Access Management,Finance,On Prem Server,16-08-2021 15:37,16-08-2021 15:38,16-08-2021 15:39,Charles,Excellent (5),Resolved,,Mail
+T413,High,Illinois,Data Privacy,GDPR,Marketing,On Prem Cloud,16-08-2021 16:22,16-08-2021 16:45,25-08-2021 17:43,Veronica,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T414,High,Kansas,Cyber Consultation,BCP/DR,Marketing,On Prem Cloud,16-08-2021 19:51,16-08-2021 20:44,20-08-2021 18:18,Martina,Excellent (5),Advised for a risk assessment,,Mail
+T415,High,Texas,Cyber Security Breach,Malware Attack,Finance,Vendor Cloud,17-08-2021 14:23,17-08-2021 14:36,16-09-2021 09:41,Charles,Excellent (5),Resolved,,Personal Call
+T416,Low,Georgia,Security Gap,Unauthorized access,IT,Vendor Cloud,17-08-2021 18:55,17-08-2021 19:01,19-08-2021 16:27,Charles,Unsatisfactory (2),Recommended Threat Assessment,Yes,Ticket Portal
+T417,High,Florida,Cyber Consultation,BCP/DR,Manufacturing,On Prem Server,17-08-2021 18:58,17-08-2021 20:34,23-08-2021 10:08,Sylviya,Unsatisfactory (2),Advised for a risk assessment,Yes,Ticket Portal
+T418,High,Maryland,Data Privacy,HIPAA,Finance,On Prem Server,17-08-2021 20:29,17-08-2021 20:30,17-08-2021 20:38,Veronica,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T419,Low,New York,Data Privacy,Privacy Assessment,Legal,Vendor Cloud,17-08-2021 20:42,17-08-2021 20:43,17-08-2021 20:47,Veronica,Excellent (5),Recommended Threat Assessment,,Personal Call
+T42,Medium,Connecticut,Security Gap,Obsolete Software,Finance,On Prem Server,31-01-2021 09:37,31-01-2021 09:37,31-01-2021 09:40,Allan,Satisfactory (3),Resolved,,Ticket Portal
+T420,Low,Illinois,Data Leak,Insider Threat,HR,On Prem Server,17-08-2021 22:37,17-08-2021 22:38,17-08-2021 22:40,Allan,Satisfactory (3),Resolved,,Ticket Portal
+T421,Low,California,Cyber Consultation,Segregation of Duties,HR,On Prem Cloud,17-08-2021 22:42,17-08-2021 22:43,17-08-2021 22:44,Allan,Excellent (5),Resolved,,Ticket Portal
+T422,Low,Florida,Data Privacy,HIPAA,IT,On Prem Server,17-08-2021 22:46,17-08-2021 22:46,17-08-2021 22:48,Allan,Excellent (5),Resolved,,Personal Call
+T423,Low,California,Cyber Consultation,Secure Development,IT,On Prem Server,17-08-2021 22:50,17-08-2021 22:51,17-08-2021 23:00,Allan,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T424,High,California,Data Leak,Insider Threat,IT,On Prem Cloud,18-08-2021 00:57,27-08-2021 02:17,27-08-2021 02:17,Martina,Good (4),Resolved,,Ticket Portal
+T425,High,Texas,Cyber Security Breach,Malware Attack,Finance,On Prem Server,18-08-2021 14:49,18-08-2021 14:55,24-08-2021 22:47,Charles,Good (4),Resolved,,Ticket Portal
+T426,Low,California,Security Gap,Unauthorized access,Legal,Vendor Cloud,18-08-2021 16:23,18-08-2021 16:23,18-08-2021 16:23,Veronica,Good (4),Recommended Threat Assessment,,Ticket Portal
+T427,High,Utah,Data Privacy,HIPAA,IT,On Prem Cloud,18-08-2021 16:27,18-08-2021 16:28,19-08-2021 14:19,Aleena,Good (4),Resolved,,Personal Call
+T428,Low,Florida,Data Privacy,HIPAA,Finance,On Prem Cloud,18-08-2021 17:38,18-08-2021 18:35,26-08-2021 17:26,Cinderalla,Excellent (5),Resolved,,Ticket Portal
+T429,Low,Texas,Data Privacy,Privacy Assessment,IT,Vendor Cloud,18-08-2021 19:07,18-08-2021 21:23,31-08-2021 16:51,Veronica,Good (4),Resolved,,Personal Call
+T43,Low,California,Cyber Consultation,New Application Launch,Finance,On Prem Server,31-01-2021 09:46,31-01-2021 09:47,31-01-2021 09:51,Allan,Unsatisfactory (2),Recommended Threat Assessment,Yes,Ticket Portal
+T430,High,Missouri,Data Leak,Phishing,IT,Vendor Cloud,18-08-2021 20:51,19-08-2021 20:30,01-09-2021 19:57,Bob,Excellent (5),Resolved,,Personal Call
+T431,Low,Maine,Security Gap,Unauthorized software,HR,On Prem Cloud,19-08-2021 00:50,19-08-2021 06:49,27-08-2021 11:43,Cinderalla,Excellent (5),Advised for a risk assessment,,Mail
+T432,Low,Texas,Data Privacy,HIPAA,HR,On Prem Server,19-08-2021 20:34,19-08-2021 21:37,26-08-2021 15:43,Charles,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T433,Medium,Texas,Data Privacy,PCI-DSS,Marketing,On Prem Cloud,19-08-2021 22:53,19-08-2021 22:54,26-08-2021 20:56,Sean,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T434,High,Illinois,Data Privacy,HIPAA,IT,On Prem Cloud,20-08-2021 15:58,20-08-2021 16:09,23-08-2021 09:44,Charles,Excellent (5),Advised for a risk assessment,,Mail
+T435,Low,Florida,Data Leak,Insider Threat,Legal,Vendor Cloud,21-08-2021 01:55,22-08-2021 23:24,27-08-2021 19:24,Sean,Excellent (5),Resolved,,Mail
+T436,Low,North Carolina,Data Privacy,HIPAA,IT,On Prem Cloud,22-08-2021 22:30,22-08-2021 22:31,22-08-2021 22:34,Bob,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T437,High,Virginia,Cyber Security Breach,Trojan Attack,IT,On Prem Cloud,22-08-2021 22:42,25-04-2021 16:48,27-08-2021 14:10,Bob,Good (4),Resolved,,Ticket Portal
+T438,Low,California,Data Privacy,GDPR,HR,On Prem Server,23-08-2021 09:27,23-08-2021 21:34,16-09-2021 14:36,Robbin,Excellent (5),Resolved,,Ticket Portal
+T439,Low,Virginia,Data Leak,Insider Threat,IT,On Prem Server,24-08-2021 13:11,24-08-2021 17:47,24-12-2021 09:58,Veronica,Excellent (5),Resolved,,Ticket Portal
+T44,Medium,Wisconsin,Data Privacy,Privacy Assessment,IT,On Prem Server,31-01-2021 09:46,31-01-2021 09:47,03-06-2021 19:56,Allan,Satisfactory (3),Resolved,,Ticket Portal
+T440,High,Texas,Data Privacy,GDPR,Legal,On Prem Server,24-08-2021 17:23,24-08-2021 17:30,24-08-2021 19:17,Robbin,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T441,Low,New York,Data Privacy,PCI-DSS,HR,Vendor Cloud,24-08-2021 19:46,24-08-2021 20:02,26-08-2021 11:10,Charles,Good (4),Recommended Threat Assessment,,Ticket Portal
+T442,Low,Oregon,Cyber Consultation,Secure Development,HR,On Prem Server,24-08-2021 23:44,25-08-2021 17:19,03-09-2021 18:28,Martina,Good (4),Resolved,,Ticket Portal
+T443,Low,Washington,Cyber Consultation,New Application Launch,Marketing,On Prem Cloud,25-08-2021 14:27,25-08-2021 17:52,03-09-2021 18:30,Sylviya,Excellent (5),Resolved,,Ticket Portal
+T444,High,Illinois,Cyber Security Breach,Firewall,Marketing,On Prem Cloud,25-08-2021 18:23,26-08-2021 10:15,03-09-2021 17:37,Sylviya,Good (4),Recommended Threat Assessment,,Ticket Portal
+T445,Low,Washington,Cyber Consultation,New Application Launch,Finance,On Prem Server,25-08-2021 22:13,25-08-2021 23:40,26-08-2021 21:33,Martina,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T446,High,Florida,Cyber Consultation,BCP/DR,HR,On Prem Cloud,25-08-2021 23:35,26-08-2021 10:14,26-08-2021 10:14,Cinderalla,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T447,High,Texas,Security Gap,Obsolete Software,IT,On Prem Server,26-08-2021 21:15,26-08-2021 21:32,02-09-2021 21:03,Martina,Good (4),Advised for a risk assessment,,Ticket Portal
+T448,Low,Nevada,Cyber Consultation,Access Management,Finance,On Prem Server,27-08-2021 12:30,27-08-2021 12:34,06-09-2021 11:00,Charles,Excellent (5),Resolved,,Ticket Portal
+T449,Medium,New York,Data Privacy,GDPR,HR,On Prem Server,27-08-2021 14:53,27-08-2021 15:02,01-09-2021 15:55,Charles,Excellent (5),Advised for a risk assessment,,Mail
+T45,High,Connecticut,Cyber Consultation,Segregation of Duties,Finance,On Prem Server,31-01-2021 09:46,31-01-2021 09:47,31-01-2021 09:57,Allan,Excellent (5),Resolved,,Personal Call
+T450,Medium,Massachusetts,Cyber Consultation,Database Security,IT,Vendor Cloud,27-08-2021 19:17,27-08-2021 19:30,21-12-2021 11:59,Veronica,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T451,High,Florida,Data Privacy,PCI-DSS,Marketing,Vendor Cloud,27-08-2021 19:48,27-08-2021 19:49,13-09-2021 09:41,Bob,Excellent (5),Resolved,,Mail
+T452,Low,Oklahoma,Data Leak,Vishing,Marketing,Vendor Cloud,28-08-2021 01:07,30-08-2021 10:09,03-09-2021 19:46,Charles,Good (4),Resolved,,Mail
+T453,Medium,California,Data Leak,Phishing,Manufacturing,On Prem Server,30-08-2021 20:45,30-08-2021 20:47,17-09-2021 11:25,Robbin,Satisfactory (3),Resolved,,Mail
+T454,Low,California,Cyber Consultation,New Application Launch,Marketing,Vendor Cloud,30-08-2021 22:28,31-08-2021 10:13,02-09-2021 17:51,Charles,Unsatisfactory (2),Advised for a risk assessment,Yes,Mail
+T455,High,Texas,Cyber Security Breach,Firewall,IT,On Prem Server,31-08-2021 17:36,31-08-2021 17:43,01-10-2021 18:03,Sylviya,Satisfactory (3),Recommended Threat Assessment,,Mail
+T456,High,Utah,Cyber Security Breach,Trojan Attack,Marketing,On Prem Server,31-08-2021 19:13,01-09-2021 13:43,21-10-2021 15:31,Veronica,Satisfactory (3),Recommended Threat Assessment,,Mail
+T457,High,Florida,Cyber Consultation,Database Security,Manufacturing,On Prem Cloud,01-09-2021 19:08,01-09-2021 19:12,08-09-2021 21:13,Martina,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T458,High,Florida,Cyber Security Breach,Trojan Attack,IT,On Prem Server,02-09-2021 11:45,02-09-2021 11:47,02-09-2021 11:48,Charles,Satisfactory (3),Resolved,,Mail
+T459,High,Montana,Cyber Consultation,Third Party Engagement,IT,On Prem Server,02-09-2021 13:40,02-09-2021 13:45,02-09-2021 14:05,Cinderalla,Excellent (5),Resolved,,Personal Call
+T46,Medium,Illinois,Cyber Consultation,Third Party Engagement,IT,On Prem Server,31-01-2021 10:04,31-01-2021 10:04,06-07-2021 09:35,Allan,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T460,Medium,Virginia,Security Gap,Password non-expiry,Finance,On Prem Cloud,03-09-2021 02:59,03-09-2021 11:40,21-09-2021 20:09,Robbin,Excellent (5),Resolved,,Ticket Portal
+T461,Medium,Pennsylvania,Security Gap,Unauthorized access,IT,On Prem Cloud,06-09-2021 13:03,06-09-2021 17:01,13-09-2021 17:26,Bob,Excellent (5),Resolved,,Ticket Portal
+T462,High,California,Data Leak,Insider Threat,Manufacturing,Vendor Cloud,08-09-2021 18:35,08-09-2021 21:35,22-09-2021 12:04,Michael,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T463,High,California,Cyber Consultation,Secure Development,HR,On Prem Cloud,08-09-2021 22:24,08-09-2021 22:35,15-09-2021 20:31,Charlotte,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T464,Low,Massachusetts,Data Privacy,Privacy Assessment,IT,On Prem Cloud,09-09-2021 14:59,10-09-2021 10:43,22-09-2021 10:25,Sylviya,Satisfactory (3),Resolved,,Ticket Portal
+T465,High,Minnesota,Cyber Security Breach,Firewall,Manufacturing,Vendor Cloud,09-09-2021 21:24,09-09-2021 21:58,15-09-2021 21:31,Martina,Good (4),Advised for a risk assessment,,Ticket Portal
+T466,High,Virginia,Data Privacy,GDPR,HR,On Prem Cloud,10-09-2021 02:36,10-09-2021 10:34,10-09-2021 10:34,Sylviya,Excellent (5),Resolved,,Ticket Portal
+T467,Medium,Colorado,Cyber Consultation,Access Management,Marketing,On Prem Server,10-09-2021 20:58,10-09-2021 23:21,23-09-2021 18:57,Martina,Good (4),Advised for a risk assessment,,Ticket Portal
+T468,Low,Arizona,Cyber Consultation,BCP/DR,IT,On Prem Cloud,14-09-2021 01:10,14-09-2021 18:10,21-09-2021 12:18,Charles,Satisfactory (3),Resolved,,Ticket Portal
+T469,Low,Wisconsin,Data Leak,Phishing,HR,On Prem Server,14-09-2021 02:23,14-09-2021 20:37,20-09-2021 18:33,Martina,Excellent (5),Resolved,,Ticket Portal
+T47,Low,California,Cyber Consultation,BCP/DR,Marketing,Vendor Cloud,31-01-2021 11:13,31-01-2021 11:13,31-01-2021 11:38,Allan,Satisfactory (3),Resolved,,Mail
+T470,High,California,Cyber Consultation,Access Management,HR,On Prem Server,14-09-2021 12:29,14-09-2021 20:10,22-09-2021 19:21,Charles,Good (4),Advised for a risk assessment,,Ticket Portal
+T471,High,Tennessee,Data Leak,Phishing,Finance,On Prem Cloud,14-09-2021 17:25,14-09-2021 18:31,07-10-2021 09:17,Cinderalla,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T472,High,Virginia,Cyber Security Breach,Trojan Attack,Marketing,On Prem Server,15-09-2021 02:59,29-04-2021 15:28,08-02-2022 20:37,Veronica,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T473,High,California,Data Privacy,Privacy Assessment,Finance,On Prem Server,15-09-2021 11:16,15-09-2021 14:25,01-10-2021 10:15,Sylviya,Excellent (5),Resolved,,Ticket Portal
+T474,High,California,Cyber Security Breach,Spyware,IT,On Prem Server,15-09-2021 13:21,15-09-2021 13:22,23-09-2021 10:28,Allan,Excellent (5),Resolved,,Mail
+T475,High,Virginia,Data Leak,Insider Threat,Marketing,On Prem Cloud,15-09-2021 17:57,15-09-2021 18:20,29-09-2021 18:47,Martina,Excellent (5),Resolved,,Ticket Portal
+T476,Medium,California,Cyber Consultation,Application Offboarding,Legal,On Prem Server,15-09-2021 18:40,16-09-2021 09:51,23-09-2021 10:17,Bob,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T477,High,California,Cyber Consultation,New Application Launch,Legal,On Prem Cloud,15-09-2021 21:28,16-09-2021 17:33,21-09-2021 20:10,Robbin,Unsatisfactory (2),Advised for a risk assessment,Yes,Ticket Portal
+T478,Medium,North Carolina,Data Privacy,GDPR,Manufacturing,On Prem Cloud,16-09-2021 12:51,16-09-2021 13:07,16-09-2021 17:55,Cinderalla,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T479,Low,California,Cyber Consultation,BCP/DR,HR,Vendor Cloud,16-09-2021 22:10,16-09-2021 22:10,16-09-2021 22:10,Veronica,Unsatisfactory (2),Recommended Threat Assessment,Yes,Ticket Portal
+T48,High,Florida,Cyber Security Breach,Malware Attack,IT,On Prem Cloud,31-01-2021 15:53,31-01-2021 15:56,04-06-2021 12:27,Martina,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T480,Low,Utah,Data Privacy,HIPAA,HR,On Prem Server,17-09-2021 09:59,17-09-2021 10:57,20-10-2021 14:47,Robbin,Unsatisfactory (2),Recommended Threat Assessment,Yes,Ticket Portal
+T481,High,Texas,Cyber Security Breach,Firewall,Manufacturing,Vendor Cloud,17-09-2021 13:24,17-09-2021 13:24,17-09-2021 13:24,Veronica,Excellent (5),Resolved,,Ticket Portal
+T482,High,Illinois,Cyber Consultation,BCP/DR,Marketing,On Prem Server,17-09-2021 21:45,20-09-2021 09:20,23-09-2021 10:19,Bob,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T483,High,California,Data Leak,Insider Threat,HR,On Prem Cloud,17-09-2021 21:50,17-09-2021 22:03,23-09-2021 18:47,Veronica,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T484,Low,Utah,Cyber Consultation,Network Security,IT,Vendor Cloud,20-09-2021 14:11,20-09-2021 14:50,22-09-2021 16:12,Robbin,Unsatisfactory (2),Advised for a risk assessment,Yes,Mail
+T485,Medium,Missouri,Data Privacy,Privacy Assessment,IT,On Prem Cloud,20-09-2021 15:45,20-09-2021 15:47,01-02-2022 12:40,Sebastian,Excellent (5),Recommended Threat Assessment,,Mail
+T486,Low,Massachusetts,Data Leak,Insider Threat,Marketing,Vendor Cloud,21-09-2021 07:24,21-09-2021 10:49,06-10-2021 16:21,Bob,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T487,Low,Ohio,Data Privacy,GDPR,Finance,On Prem Cloud,21-09-2021 10:42,21-09-2021 18:02,25-10-2021 13:07,Allan,Good (4),Resolved,,Ticket Portal
+T488,High,New York,Cyber Security Breach,Firewall,Legal,On Prem Server,21-09-2021 21:05,21-09-2021 21:37,25-10-2021 20:26,Sebastian,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T489,High,Missouri,Data Leak,Phishing,HR,On Prem Server,22-09-2021 11:48,22-09-2021 11:54,30-09-2021 13:01,Robbin,Good (4),Resolved,,Personal Call
+T49,High,California,Data Privacy,GDPR,IT,On Prem Server,03-02-2021 22:09,03-02-2021 22:12,10-02-2021 18:32,Martina,Good (4),Resolved,,Personal Call
+T490,Medium,Texas,Data Leak,Insider Threat,Finance,On Prem Server,22-09-2021 12:12,22-09-2021 14:48,22-12-2021 23:49,Aleena,Unsatisfactory (2),Recommended Threat Assessment,Yes,Mail
+T491,Low,California,Security Gap,Password non-expiry,Finance,On Prem Server,22-09-2021 14:35,22-09-2021 14:38,28-09-2021 11:21,Cinderalla,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T492,Low,New York,Cyber Consultation,New Application Launch,Marketing,Vendor Cloud,23-09-2021 14:09,28-04-2021 22:11,14-10-2021 17:03,Allan,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T493,High,Oklahoma,Cyber Consultation,New Application Launch,HR,On Prem Server,23-09-2021 18:45,23-09-2021 18:49,25-09-2021 00:02,Martina,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T494,Low,Iowa,Data Privacy,Privacy Assessment,Marketing,On Prem Cloud,23-09-2021 21:01,23-09-2021 21:06,01-11-2021 17:32,Martina,Excellent (5),Resolved,,Ticket Portal
+T495,Low,District of Columbia,Data Privacy,HIPAA,Finance,On Prem Server,23-09-2021 22:31,24-09-2021 11:04,28-09-2021 15:47,Sebastian,Excellent (5),Resolved,,Ticket Portal
+T496,Low,Illinois,Data Privacy,PCI-DSS,HR,On Prem Server,23-09-2021 23:16,24-09-2021 11:55,30-09-2021 19:19,Charles,Unsatisfactory (2),Recommended Threat Assessment,,Mail
+T497,High,Arizona,Security Gap,Unauthorized access,Manufacturing,On Prem Cloud,24-09-2021 20:21,24-09-2021 20:27,24-09-2021 20:27,Veronica,Excellent (5),Resolved,,Ticket Portal
+T498,High,New York,Cyber Security Breach,Malware Attack,Manufacturing,On Prem Server,27-09-2021 11:29,27-09-2021 12:45,01-10-2021 17:44,Kareema,Satisfactory (3),Resolved,,Mail
+T499,High,Virginia,Security Gap,Unauthorized software,HR,On Prem Server,28-09-2021 12:01,28-09-2021 13:14,01-10-2021 08:13,Cinderalla,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T50,High,Arizona,Cyber Security Breach,Malware Attack,Finance,On Prem Cloud,04-02-2021 10:26,04-02-2021 10:27,04-02-2021 11:47,Allan,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T500,Low,California,Security Gap,Obsolete Software,Finance,Vendor Cloud,28-09-2021 18:44,29-09-2021 10:33,01-10-2021 11:17,Charles,Satisfactory (3),Advised for a risk assessment,,Personal Call
+T501,Low,Utah,Data Leak,Vishing,IT,On Prem Server,28-09-2021 19:17,29-09-2021 09:41,29-09-2021 16:25,Cinderalla,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T502,High,Delaware,Data Leak,Phishing,IT,On Prem Cloud,29-09-2021 11:51,29-09-2021 17:15,12-01-2022 21:48,Martina,Good (4),Resolved,,Ticket Portal
+T503,High,Texas,Data Leak,Insider Threat,Finance,On Prem Cloud,29-09-2021 12:51,30-09-2021 08:19,03-03-2022 16:50,Cinderalla,Satisfactory (3),Resolved,,Ticket Portal
+T504,High,New York,Cyber Consultation,BCP/DR,Legal,On Prem Server,29-09-2021 17:55,29-09-2021 20:17,25-10-2021 16:07,Veronica,Excellent (5),Advised for a risk assessment,,Mail
+T505,Low,California,Cyber Consultation,BCP/DR,Manufacturing,Vendor Cloud,29-09-2021 19:47,29-09-2021 19:52,01-10-2021 17:00,Charles,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T506,Medium,Georgia,Cyber Consultation,Access Management,HR,Vendor Cloud,29-09-2021 20:50,29-09-2021 20:56,07-10-2021 21:59,Martina,Excellent (5),Resolved,,Ticket Portal
+T507,High,Texas,Data Privacy,HIPAA,Finance,On Prem Server,30-09-2021 20:29,30-09-2021 20:30,30-09-2021 20:31,Allan,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T508,Low,Arizona,Cyber Consultation,Encryption,HR,Vendor Cloud,30-09-2021 20:36,30-09-2021 20:39,30-09-2021 20:40,Allan,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T509,Low,New Jersey,Security Gap,Unauthorized access,Manufacturing,On Prem Server,30-09-2021 20:43,30-09-2021 20:43,30-09-2021 20:44,Allan,Excellent (5),Advised for a risk assessment,,Personal Call
+T51,High,Utah,Data Privacy,HIPAA,Legal,On Prem Cloud,06-02-2021 23:44,06-02-2021 23:57,10-02-2021 17:53,Martina,Good (4),Recommended Threat Assessment,,Ticket Portal
+T510,Medium,New Jersey,Security Gap,Unauthorized software,Marketing,Vendor Cloud,30-09-2021 20:49,30-09-2021 20:49,30-09-2021 20:51,Allan,Good (4),Advised for a risk assessment,,Ticket Portal
+T511,Low,California,Cyber Consultation,Application Offboarding,Finance,On Prem Cloud,30-09-2021 20:54,30-09-2021 20:54,30-09-2021 20:56,Allan,Satisfactory (3),Resolved,,Ticket Portal
+T512,High,Indiana,Cyber Security Breach,Malware Attack,Legal,Vendor Cloud,30-09-2021 20:58,30-09-2021 21:09,30-09-2021 21:11,Allan,Unsatisfactory (2),Resolved,,Ticket Portal
+T513,High,New Jersey,Data Leak,Phishing,IT,Vendor Cloud,30-09-2021 21:14,30-09-2021 21:14,30-09-2021 21:18,Allan,Excellent (5),Advised for a risk assessment,,Personal Call
+T514,High,Pennsylvania,Data Leak,Insider Threat,Marketing,On Prem Cloud,01-10-2021 15:47,01-10-2021 15:48,08-10-2021 09:32,Charles,Excellent (5),Resolved,,Personal Call
+T515,Low,Kansas,Data Leak,Phishing,Marketing,On Prem Cloud,01-10-2021 19:27,04-10-2021 10:43,17-03-2022 22:08,Veronica,Excellent (5),Resolved,,Ticket Portal
+T516,Low,New York,Data Privacy,Privacy Assessment,Marketing,Vendor Cloud,04-10-2021 16:46,04-10-2021 16:49,04-10-2021 20:36,Sebastian,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T517,Low,Virginia,Data Privacy,Privacy Assessment,IT,On Prem Cloud,05-10-2021 18:19,05-10-2021 18:21,05-10-2021 18:23,Veronica,Excellent (5),Resolved,,Mail
+T518,High,California,Data Privacy,HIPAA,IT,Vendor Cloud,05-10-2021 23:22,05-10-2021 23:23,25-10-2021 16:38,Martina,Good (4),Resolved,,Ticket Portal
+T519,High,Pennsylvania,Cyber Security Breach,Firewall,Legal,On Prem Server,06-10-2021 01:22,06-10-2021 10:21,26-10-2021 14:09,Charles,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T52,High,Missouri,Data Privacy,GDPR,Manufacturing,On Prem Server,06-02-2021 23:44,06-02-2021 23:57,10-02-2021 17:53,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T520,Low,California,Data Privacy,HIPAA,Finance,On Prem Cloud,06-10-2021 02:23,06-10-2021 11:39,06-10-2021 11:39,Cinderalla,Excellent (5),Resolved,,Ticket Portal
+T521,Low,Colorado,Data Leak,Vishing,Manufacturing,Vendor Cloud,06-10-2021 18:36,06-10-2021 18:40,08-10-2021 11:59,Sean,Excellent (5),Recommended Threat Assessment,,Personal Call
+T522,Medium,Arizona,Data Leak,Insider Threat,HR,On Prem Cloud,07-10-2021 19:27,07-10-2021 20:04,19-10-2021 19:36,Cinderalla,Good (4),Resolved,,Personal Call
+T523,Medium,California,Data Leak,Phishing,Marketing,On Prem Server,07-10-2021 23:39,07-10-2021 23:43,13-10-2021 20:31,Martina,Satisfactory (3),Resolved,,Mail
+T524,High,Colorado,Security Gap,Password non-expiry,IT,On Prem Cloud,11-10-2021 21:12,11-10-2021 21:17,25-10-2021 17:25,Martina,Good (4),Recommended Threat Assessment,,Ticket Portal
+T525,High,Texas,Cyber Security Breach,Firewall,IT,On Prem Server,12-10-2021 18:58,12-10-2021 20:25,19-11-2021 11:08,Robbin,Excellent (5),Resolved,,Ticket Portal
+T526,High,Colorado,Security Gap,Unauthorized access,Legal,Vendor Cloud,13-10-2021 06:08,13-10-2021 10:00,13-10-2021 10:00,Veronica,Good (4),Resolved,,Ticket Portal
+T527,High,Maryland,Cyber Security Breach,Firewall,Finance,On Prem Server,13-10-2021 18:12,13-10-2021 18:56,13-10-2021 18:56,Sean,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T528,Low,New York,Data Privacy,Privacy Assessment,HR,Vendor Cloud,13-10-2021 20:06,14-10-2021 02:00,01-11-2021 22:11,Martina,Excellent (5),Resolved,,Personal Call
+T529,High,Virginia,Data Privacy,GDPR,IT,On Prem Cloud,14-10-2021 15:06,14-10-2021 16:57,28-02-2022 15:32,Veronica,Excellent (5),Resolved,,Ticket Portal
+T53,Medium,California,Security Gap,Obsolete Software,Marketing,Vendor Cloud,07-02-2021 14:38,07-02-2021 14:41,03-09-2021 17:36,Kareema,Satisfactory (3),Resolved,,Ticket Portal
+T530,Low,Arizona,Security Gap,Password non-expiry,IT,On Prem Server,14-10-2021 19:27,14-10-2021 19:30,27-10-2021 20:11,Martina,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T531,Low,Iowa,Cyber Consultation,New Application Launch,Finance,On Prem Server,14-10-2021 21:36,15-10-2021 13:40,22-10-2021 17:29,Sylviya,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T532,High,Georgia,Cyber Consultation,Application Offboarding,Legal,On Prem Server,15-10-2021 22:01,18-10-2021 10:05,26-10-2021 14:13,Charles,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T533,High,Michigan,Cyber Security Breach,Firewall,IT,Vendor Cloud,18-10-2021 18:36,18-10-2021 19:16,26-10-2021 20:39,Sean,Good (4),Resolved,,Ticket Portal
+T534,Low,Colorado,Data Privacy,HIPAA,IT,On Prem Server,18-10-2021 19:02,18-10-2021 19:45,21-10-2021 18:01,Martina,Good (4),Resolved,,Ticket Portal
+T535,High,Texas,Data Privacy,GDPR,HR,On Prem Cloud,18-10-2021 23:45,20-10-2021 10:13,26-10-2021 14:16,Charles,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T536,High,Indiana,Cyber Consultation,Application Offboarding,IT,On Prem Cloud,19-10-2021 22:14,19-10-2021 22:58,19-10-2021 23:05,Martina,Good (4),Resolved,,Ticket Portal
+T537,Medium,Texas,Data Leak,Insider Threat,IT,Vendor Cloud,19-10-2021 23:28,20-10-2021 16:52,25-10-2021 18:03,Aleena,Excellent (5),Resolved,,Personal Call
+T538,Low,New York,Data Leak,Vishing,Manufacturing,On Prem Cloud,20-10-2021 17:39,20-10-2021 17:39,22-10-2021 15:37,Veronica,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T539,Medium,California,Data Privacy,Privacy Assessment,IT,On Prem Cloud,20-10-2021 19:32,20-10-2021 19:39,21-10-2021 16:28,Martina,Good (4),Resolved,,Ticket Portal
+T54,High,Michigan,Data Leak,Insider Threat,IT,Vendor Cloud,07-02-2021 20:22,07-02-2021 20:23,11-02-2021 17:45,Veronica,Good (4),Resolved,,Personal Call
+T540,High,Alabama,Cyber Security Breach,Spyware,Legal,On Prem Cloud,22-10-2021 20:24,22-10-2021 20:59,25-10-2021 20:00,Martina,Good (4),Advised for a risk assessment,,Personal Call
+T541,Medium,South Carolina,Cyber Consultation,New Application Launch,Finance,On Prem Server,22-10-2021 20:38,22-10-2021 21:03,25-10-2021 18:14,Martina,Unsatisfactory (2),Resolved,,Mail
+T542,Medium,Massachusetts,Cyber Consultation,Network Security,HR,On Prem Server,25-10-2021 10:59,16-09-2021 22:10,25-10-2021 11:13,Veronica,Good (4),Recommended Threat Assessment,,Ticket Portal
+T543,Medium,Tennessee,Data Leak,Phishing,IT,Vendor Cloud,26-10-2021 12:40,26-10-2021 13:37,03-11-2021 19:00,Benny,Excellent (5),Resolved,,Ticket Portal
+T544,High,Florida,Data Leak,Insider Threat,Marketing,On Prem Server,26-10-2021 13:28,26-10-2021 15:16,26-10-2021 15:21,Veronica,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T545,High,Missouri,Data Leak,Insider Threat,Finance,Vendor Cloud,26-10-2021 18:16,26-10-2021 18:17,10-11-2021 19:04,Robbin,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T546,Low,Virginia,Data Privacy,PCI-DSS,IT,Vendor Cloud,27-10-2021 11:38,27-10-2021 11:39,10-11-2021 11:18,Veronica,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T547,High,Texas,Cyber Security Breach,Malware Attack,HR,Vendor Cloud,27-10-2021 17:17,27-10-2021 17:17,05-11-2021 12:27,Robbin,Excellent (5),Resolved,,Mail
+T548,High,Ohio,Data Leak,Phishing,IT,On Prem Server,28-10-2021 03:12,28-10-2021 09:42,05-11-2021 17:39,Sean,Unsatisfactory (2),Resolved,,Ticket Portal
+T549,High,Michigan,Data Privacy,PCI-DSS,Legal,On Prem Cloud,28-10-2021 19:24,29-10-2021 16:35,08-11-2021 16:56,Charlotte,Good (4),Recommended Threat Assessment,,Ticket Portal
+T55,Medium,Oregon,Data Privacy,GDPR,HR,Vendor Cloud,11-02-2021 12:15,11-02-2021 12:16,13-02-2021 22:08,Charlotte,Excellent (5),Resolved,,Ticket Portal
+T550,High,New York,Data Privacy,Privacy Assessment,HR,On Prem Cloud,28-10-2021 20:24,28-10-2021 20:25,28-10-2021 20:26,Veronica,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T551,High,California,Data Leak,Insider Threat,HR,On Prem Server,29-10-2021 16:12,28-07-2021 23:43,03-11-2021 12:06,Charles,Unsatisfactory (2),Resolved,,Ticket Portal
+T552,Medium,Wisconsin,Data Leak,Vishing,HR,On Prem Server,01-11-2021 13:15,01-11-2021 13:17,05-11-2021 12:29,Robbin,Good (4),Recommended Threat Assessment,,Ticket Portal
+T553,High,Massachusetts,Data Leak,Insider Threat,Legal,On Prem Server,02-11-2021 01:41,02-11-2021 01:43,21-12-2021 18:52,Martina,Unsatisfactory (2),Resolved,,Ticket Portal
+T554,Low,Florida,Data Privacy,HIPAA,Legal,On Prem Server,02-11-2021 02:51,02-11-2021 17:36,09-11-2021 14:37,Michael,Excellent (5),Recommended Threat Assessment,,Mail
+T555,High,Florida,Cyber Consultation,Secure Development,Finance,On Prem Server,02-11-2021 10:45,02-11-2021 17:37,11-11-2021 11:45,Sean,Good (4),Advised for a risk assessment,,Mail
+T556,High,California,Data Privacy,GDPR,Legal,On Prem Server,02-11-2021 21:36,02-11-2021 21:37,02-11-2021 21:37,Sylviya,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T557,High,New Jersey,Security Gap,Unauthorized access,Marketing,Vendor Cloud,03-11-2021 18:48,03-11-2021 20:07,26-11-2021 16:38,Allan,Excellent (5),Resolved,,Ticket Portal
+T558,Low,New York,Cyber Consultation,Third Party Engagement,Manufacturing,On Prem Cloud,05-11-2021 23:05,06-11-2021 00:35,18-11-2021 22:52,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T559,High,Massachusetts,Data Privacy,GDPR,IT,On Prem Cloud,08-11-2021 19:59,08-11-2021 21:23,22-11-2021 11:36,Bob,Good (4),Recommended Threat Assessment,,Ticket Portal
+T56,Medium,Colorado,Cyber Consultation,Segregation of Duties,Finance,On Prem Cloud,11-02-2021 18:15,11-02-2021 18:15,13-02-2021 11:10,Benny,Good (4),Advised for a risk assessment,,Ticket Portal
+T560,High,California,Data Privacy,PCI-DSS,Legal,On Prem Cloud,09-11-2021 00:13,09-11-2021 00:23,12-11-2021 17:47,Martina,Excellent (5),Resolved,,Ticket Portal
+T561,Medium,Missouri,Cyber Consultation,Database Security,Legal,On Prem Server,09-11-2021 01:12,09-11-2021 14:29,17-11-2021 20:13,Sean,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T562,Medium,California,Data Privacy,GDPR,IT,Vendor Cloud,09-11-2021 18:17,09-11-2021 18:20,29-11-2021 11:01,Kareema,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T563,High,California,Data Leak,Insider Threat,IT,On Prem Cloud,09-11-2021 19:19,09-11-2021 19:22,21-12-2021 18:56,Martina,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T564,High,Arizona,Cyber Security Breach,Malware Attack,Finance,On Prem Server,10-11-2021 18:51,10-11-2021 18:51,10-11-2021 18:54,Robbin,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T565,Medium,Oregon,Data Leak,Insider Threat,Finance,On Prem Cloud,11-11-2021 04:19,11-11-2021 17:31,11-11-2021 17:31,Sylviya,Excellent (5),Resolved,,Ticket Portal
+T566,High,North Carolina,Cyber Security Breach,Firewall,IT,On Prem Server,15-11-2021 19:15,15-11-2021 19:27,15-11-2021 19:27,Martina,Excellent (5),Recommended Threat Assessment,,Personal Call
+T567,High,Maryland,Data Leak,Insider Threat,Manufacturing,On Prem Server,16-11-2021 17:14,16-11-2021 18:19,03-12-2021 16:52,Michael,Excellent (5),Resolved,,Ticket Portal
+T568,Low,Florida,Cyber Consultation,New Application Launch,Finance,On Prem Cloud,16-11-2021 20:20,17-11-2021 10:17,25-11-2021 10:30,Cinderalla,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T569,High,Indiana,Cyber Security Breach,Spyware,Marketing,On Prem Cloud,17-11-2021 02:08,17-11-2021 02:12,18-11-2021 22:53,Martina,Good (4),Resolved,,Ticket Portal
+T57,Medium,District of Columbia,Cyber Consultation,Segregation of Duties,IT,On Prem Server,11-02-2021 23:36,12-02-2021 01:18,17-02-2021 21:45,Martina,Good (4),Recommended Threat Assessment,,Ticket Portal
+T570,High,Georgia,Data Privacy,Privacy Assessment,Finance,On Prem Server,17-11-2021 18:04,17-11-2021 18:11,19-11-2021 09:47,Charles,Unsatisfactory (2),Resolved,,Ticket Portal
+T571,Medium,Kansas,Data Privacy,HIPAA,Finance,Vendor Cloud,17-11-2021 19:16,17-11-2021 19:29,25-11-2021 14:18,Sylviya,Excellent (5),Advised for a risk assessment,,Mail
+T572,Low,Ohio,Data Privacy,PCI-DSS,IT,On Prem Server,18-11-2021 11:19,18-11-2021 11:20,18-11-2021 11:21,Robbin,Good (4),Resolved,,Ticket Portal
+T573,Low,California,Data Leak,Vishing,Marketing,On Prem Server,18-11-2021 11:23,18-11-2021 11:24,06-01-2022 17:54,Robbin,Good (4),Resolved,,Ticket Portal
+T574,Low,Illinois,Cyber Consultation,BCP/DR,Finance,On Prem Cloud,18-11-2021 14:30,19-11-2021 11:40,25-11-2021 18:30,Charles,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T575,Low,Texas,Cyber Consultation,New Application Launch,Manufacturing,On Prem Server,18-11-2021 15:07,18-11-2021 15:12,25-11-2021 16:27,Bob,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T576,Low,Colorado,Security Gap,Obsolete Software,IT,On Prem Cloud,19-11-2021 11:22,19-11-2021 11:22,19-11-2021 11:24,Charles,Satisfactory (3),Resolved,,Personal Call
+T577,High,Virginia,Data Leak,Insider Threat,Finance,On Prem Server,19-11-2021 11:27,19-11-2021 11:27,19-11-2021 11:29,Charles,Excellent (5),Resolved,,Ticket Portal
+T578,Medium,Ohio,Data Privacy,Privacy Assessment,HR,On Prem Server,19-11-2021 11:33,19-11-2021 11:33,19-11-2021 11:34,Charles,Excellent (5),Resolved,,Ticket Portal
+T579,Medium,New Jersey,Data Leak,Insider Threat,Finance,On Prem Server,19-11-2021 11:37,19-11-2021 11:38,19-11-2021 11:38,Charles,Satisfactory (3),Resolved,,Mail
+T58,High,Mississippi,Security Gap,Unauthorized access,Manufacturing,Vendor Cloud,12-02-2021 17:45,12-02-2021 17:46,13-02-2021 11:45,Kareema,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T580,High,Pennsylvania,Data Privacy,Privacy Assessment,Finance,Vendor Cloud,22-11-2021 13:39,22-11-2021 13:41,15-12-2021 11:02,Sebastian,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T581,High,Utah,Cyber Security Breach,Trojan Attack,IT,Vendor Cloud,22-11-2021 15:18,22-11-2021 15:18,23-11-2021 11:24,Charlotte,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T582,High,Florida,Data Leak,Phishing,IT,On Prem Server,22-11-2021 23:08,22-11-2021 23:56,21-12-2021 18:50,Martina,Good (4),Advised for a risk assessment,,Mail
+T583,High,California,Data Leak,Phishing,IT,On Prem Server,23-11-2021 10:16,23-11-2021 10:17,23-11-2021 14:48,Veronica,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T584,Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Cloud,23-11-2021 17:20,24-11-2021 11:30,03-12-2021 10:29,Bob,Excellent (5),Resolved,,Ticket Portal
+T585,High,Virginia,Cyber Security Breach,Firewall,IT,Vendor Cloud,23-11-2021 21:07,23-11-2021 21:14,24-11-2021 18:02,Sylviya,Excellent (5),Resolved,,Ticket Portal
+T586,Low,Massachusetts,Data Privacy,GDPR,Finance,On Prem Cloud,23-11-2021 22:42,23-11-2021 22:56,29-11-2021 23:41,Martina,Unsatisfactory (2),Resolved,,Ticket Portal
+T587,High,California,Data Privacy,PCI-DSS,HR,On Prem Server,24-11-2021 11:23,24-11-2021 11:24,24-11-2021 11:25,Robbin,Good (4),Resolved,,Ticket Portal
+T588,Low,New York,Data Leak,Vishing,Finance,Vendor Cloud,25-11-2021 23:54,26-11-2021 09:36,07-12-2021 08:13,Cinderalla,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T589,High,New York,Cyber Security Breach,Trojan Attack,Marketing,On Prem Cloud,29-11-2021 12:15,29-11-2021 12:16,29-11-2021 12:18,Allan,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T59,Low,Illinois,Data Leak,Vishing,HR,On Prem Server,13-02-2021 10:30,13-02-2021 10:40,13-02-2021 19:16,Benny,Excellent (5),Resolved,,Ticket Portal
+T590,High,Florida,Cyber Consultation,Database Security,Marketing,On Prem Server,29-11-2021 12:44,29-11-2021 12:44,29-11-2021 12:48,Allan,Unsatisfactory (2),Resolved,,Ticket Portal
+T591,Medium,California,Data Privacy,PCI-DSS,Marketing,Vendor Cloud,29-11-2021 12:51,29-11-2021 12:51,29-11-2021 12:53,Allan,Excellent (5),Resolved,,Mail
+T592,Low,Illinois,Cyber Consultation,Access Management,Manufacturing,Vendor Cloud,29-11-2021 12:56,29-11-2021 12:57,29-11-2021 13:03,Allan,Good (4),Recommended Threat Assessment,,Ticket Portal
+T593,Low,Pennsylvania,Data Leak,Phishing,IT,Vendor Cloud,29-11-2021 13:07,29-11-2021 13:10,29-11-2021 13:10,Allan,Excellent (5),Resolved,,Personal Call
+T594,High,New York,Cyber Security Breach,Firewall,IT,Vendor Cloud,29-11-2021 13:17,29-11-2021 13:19,29-11-2021 13:32,Allan,Satisfactory (3),Resolved,,Mail
+T595,High,Illinois,Cyber Security Breach,Firewall,HR,On Prem Cloud,29-11-2021 16:58,29-11-2021 17:03,02-12-2021 17:47,Cinderalla,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T596,Low,Michigan,Data Leak,Phishing,Finance,On Prem Server,30-11-2021 21:03,01-12-2021 09:44,02-12-2021 18:06,Cinderalla,Good (4),Recommended Threat Assessment,,Ticket Portal
+T597,High,California,Cyber Security Breach,Firewall,HR,Vendor Cloud,02-12-2021 09:19,03-12-2021 14:39,09-12-2021 11:52,Bob,Excellent (5),Resolved,,Ticket Portal
+T598,Low,New York,Data Privacy,Privacy Assessment,Finance,On Prem Cloud,02-12-2021 12:46,02-12-2021 12:47,02-12-2021 12:48,Robbin,Excellent (5),Resolved,,Ticket Portal
+T599,High,Virginia,Data Privacy,HIPAA,HR,On Prem Server,02-12-2021 12:49,02-12-2021 12:50,02-12-2021 12:53,Robbin,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T60,Low,Massachusetts,Data Privacy,Privacy Assessment,IT,On Prem Cloud,14-02-2021 13:09,14-02-2021 16:35,18-02-2021 17:02,Martina,Excellent (5),Advised for a risk assessment,,Mail
+T600,Low,Florida,Data Privacy,PCI-DSS,Finance,On Prem Server,02-12-2021 20:54,02-12-2021 22:16,03-12-2021 20:00,Martina,Unsatisfactory (2),Recommended Threat Assessment,,Ticket Portal
+T601,Medium,Massachusetts,Cyber Consultation,Application Offboarding,HR,On Prem Server,02-12-2021 23:17,03-12-2021 09:40,07-12-2021 18:18,Cinderalla,Excellent (5),Resolved,,Ticket Portal
+T602,Medium,Georgia,Cyber Consultation,Access Management,IT,On Prem Cloud,03-12-2021 13:06,03-12-2021 13:15,09-12-2021 09:23,Cinderalla,Excellent (5),Resolved,,Mail
+T603,Low,Oregon,Security Gap,Unauthorized software,IT,On Prem Cloud,03-12-2021 19:40,03-12-2021 21:14,03-12-2021 21:34,Charlotte,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T604,High,Illinois,Cyber Security Breach,Firewall,Legal,On Prem Cloud,03-12-2021 20:54,03-12-2021 21:08,03-12-2021 21:46,Martina,Good (4),Recommended Threat Assessment,,Ticket Portal
+T605,Low,Michigan,Data Privacy,HIPAA,Manufacturing,On Prem Server,03-12-2021 23:31,03-12-2021 23:33,04-12-2021 00:41,Sylviya,Excellent (5),Resolved,,Personal Call
+T606,High,Texas,Data Privacy,Privacy Assessment,HR,Vendor Cloud,06-12-2021 09:47,06-12-2021 09:49,13-12-2021 16:51,Sebastian,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T607,High,California,Cyber Consultation,Database Security,Legal,Vendor Cloud,07-12-2021 01:51,07-12-2021 17:33,15-12-2021 20:11,Michael,Excellent (5),Resolved,,Ticket Portal
+T608,Low,Washington,Data Privacy,HIPAA,Marketing,Vendor Cloud,07-12-2021 20:21,07-12-2021 20:21,17-02-2022 23:16,Aleena,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T609,Low,Tennessee,Data Privacy,PCI-DSS,Marketing,Vendor Cloud,08-12-2021 03:23,08-12-2021 15:01,15-12-2021 21:49,Sean,Excellent (5),Resolved,,Mail
+T61,Low,Ohio,Data Leak,Phishing,HR,On Prem Server,17-02-2021 09:56,17-02-2021 09:57,17-02-2021 09:58,Benny,Excellent (5),Resolved,,Ticket Portal
+T610,High,Pennsylvania,Data Leak,Insider Threat,Legal,On Prem Cloud,08-12-2021 22:17,09-12-2021 10:09,13-12-2021 15:16,Bob,Excellent (5),Resolved,,Personal Call
+T611,High,New York,Security Gap,Unauthorized software,Legal,On Prem Cloud,09-12-2021 17:30,09-12-2021 17:36,12-12-2021 10:44,Cinderalla,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T612,Low,New Jersey,Security Gap,Password non-expiry,Marketing,On Prem Server,09-12-2021 22:46,09-12-2021 22:53,13-01-2022 02:37,Martina,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T613,Low,Virginia,Data Privacy,GDPR,IT,Vendor Cloud,10-12-2021 00:14,10-12-2021 00:17,10-12-2021 18:09,Martina,Excellent (5),Advised for a risk assessment,,Personal Call
+T614,High,Colorado,Data Privacy,HIPAA,Legal,Vendor Cloud,13-12-2021 16:21,13-12-2021 17:12,21-12-2021 15:11,Michael,Satisfactory (3),Advised for a risk assessment,,Personal Call
+T615,High,Texas,Cyber Security Breach,Trojan Attack,Legal,Vendor Cloud,13-12-2021 16:58,13-12-2021 17:00,15-12-2021 10:58,Sebastian,Satisfactory (3),Advised for a risk assessment,,Personal Call
+T616,High,Virginia,Data Privacy,GDPR,Manufacturing,On Prem Server,13-12-2021 17:06,13-12-2021 17:14,17-12-2021 19:21,Michael,Satisfactory (3),Recommended Threat Assessment,,Ticket Portal
+T617,Medium,Oregon,Data Leak,Phishing,IT,On Prem Server,13-12-2021 17:14,13-12-2021 17:16,13-12-2021 21:00,Sebastian,Excellent (5),Resolved,,Ticket Portal
+T618,High,Mississippi,Data Leak,Phishing,HR,On Prem Cloud,15-12-2021 15:36,15-12-2021 15:39,20-12-2021 16:42,Michael,Unsatisfactory (2),Resolved,,Ticket Portal
+T619,High,New York,Cyber Consultation,BCP/DR,Finance,On Prem Server,15-12-2021 20:21,16-12-2021 09:27,21-12-2021 10:19,Charles,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T62,Low,Florida,Cyber Consultation,Application Offboarding,Manufacturing,On Prem Server,17-02-2021 16:26,17-02-2021 16:28,16-07-2021 09:06,Bob,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T620,Low,New Jersey,Cyber Consultation,Access Management,HR,On Prem Server,17-12-2021 15:30,17-12-2021 15:30,22-03-2022 09:32,Bob,Excellent (5),Resolved,,Personal Call
+T621,Low,California,Data Privacy,Privacy Assessment,Manufacturing,On Prem Cloud,20-12-2021 11:42,20-12-2021 11:45,20-12-2021 12:04,Cinderalla,Unsatisfactory (2),Recommended Threat Assessment,,Personal Call
+T622,Low,Kentucky,Data Leak,Vishing,HR,On Prem Server,20-12-2021 15:57,20-12-2021 15:58,17-02-2022 17:35,Aleena,Good (4),Recommended Threat Assessment,,Ticket Portal
+T623,High,California,Data Privacy,PCI-DSS,Marketing,On Prem Server,21-12-2021 06:05,21-12-2021 10:51,21-12-2021 14:21,Michael,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T624,High,Colorado,Data Privacy,PCI-DSS,HR,On Prem Server,30-12-2021 03:56,30-12-2021 10:54,30-12-2021 17:53,Benny,Excellent (5),Advised for a risk assessment,,Mail
+T625,Low,Georgia,Cyber Consultation,Access Management,IT,Vendor Cloud,30-12-2021 15:22,30-12-2021 15:26,30-12-2021 15:31,Allan,Good (4),Advised for a risk assessment,,Ticket Portal
+T626,High,California,Security Gap,Obsolete Software,HR,On Prem Cloud,30-12-2021 15:50,30-12-2021 15:51,30-12-2021 15:52,Allan,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T627,High,New Jersey,Data Leak,Phishing,Finance,On Prem Server,30-12-2021 16:12,30-12-2021 16:13,03-01-2022 11:48,Allan,Unsatisfactory (2),Advised for a risk assessment,,Ticket Portal
+T63,Medium,New York,Data Leak,Insider Threat,Marketing,Vendor Cloud,17-02-2021 21:07,17-02-2021 21:17,13-07-2021 18:57,Martina,Unsatisfactory (2),Resolved,Yes,Ticket Portal
+T64,High,New York,Data Privacy,HIPAA,IT,On Prem Server,18-02-2021 20:29,18-02-2021 20:36,02-06-2021 10:13,Charles,Excellent (5),Recommended Threat Assessment,,Mail
+T65,Low,California,Data Privacy,HIPAA,Manufacturing,Vendor Cloud,18-02-2021 20:43,18-02-2021 20:49,25-02-2021 19:11,Charles,Excellent (5),Recommended Threat Assessment,,Mail
+T66,Medium,North Carolina,Data Leak,Phishing,Marketing,On Prem Server,19-02-2021 06:13,19-02-2021 06:18,19-02-2021 18:52,Benny,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T67,High,Wisconsin,Cyber Security Breach,Malware Attack,IT,On Prem Server,19-02-2021 13:58,19-02-2021 14:01,02-06-2021 10:20,Martina,Excellent (5),Resolved,,Mail
+T68,High,California,Data Leak,Vishing,HR,On Prem Server,19-02-2021 18:34,19-02-2021 18:37,24-02-2021 12:17,Martina,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T69,Low,District of Columbia,Data Privacy,Privacy Assessment,IT,On Prem Server,20-02-2021 15:49,20-02-2021 15:55,28-02-2021 10:11,Cinderalla,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T70,High,New York,Data Privacy,HIPAA,HR,On Prem Server,20-02-2021 21:23,20-02-2021 21:27,20-02-2021 21:27,Martina,Excellent (5),Resolved,,Ticket Portal
+T71,Low,Pennsylvania,Data Privacy,Privacy Assessment,HR,Vendor Cloud,25-02-2021 11:01,25-02-2021 11:05,31-02-2021  11:30:57,Sebastian,Excellent (5),Resolved,,Personal Call
+T72,High,Virginia,Data Leak,Phishing,Finance,Vendor Cloud,26-02-2021 11:43,26-02-2021 11:44,26-02-2021 11:46,Kareema,Excellent (5),Resolved,,Personal Call
+T73,High,Florida,Security Gap,Obsolete Software,Manufacturing,On Prem Cloud,26-02-2021 19:27,26-02-2021 19:30,22-09-2021 11:17,Robbin,Good (4),Recommended Threat Assessment,,Personal Call
+T74,High,North Carolina,Cyber Security Breach,Malware Attack,IT,On Prem Server,27-02-2021 15:58,27-02-2021 16:15,08-06-2021 09:23,Martina,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T75,Low,Washington,Cyber Consultation,New Application Launch,Finance,On Prem Server,28-02-2021 15:09,28-02-2021 15:12,22-06-2021 16:21,Kareema,Good (4),Resolved,,Ticket Portal
+T76,High,California,Data Privacy,GDPR,IT,Vendor Cloud,03-03-2021 12:46,03-03-2021 12:48,03-06-2021 16:35,Sean,Excellent (5),Advised for a risk assessment,,Ticket Portal
+T77,High,California,Data Privacy,GDPR,IT,Vendor Cloud,03-03-2021 12:46,03-03-2021 12:48,03-06-2021 16:35,Bob,Excellent (5),Advised for a risk assessment,,Personal Call
+T78,Low,Minnesota,Cyber Consultation,BCP/DR,IT,On Prem Server,04-03-2021 09:52,04-03-2021 10:12,17-03-2021 09:44,Michael,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T79,Low,Minnesota,Cyber Consultation,BCP/DR,IT,On Prem Server,04-03-2021 09:52,04-03-2021 10:12,17-03-2021 09:44,Bob,Excellent (5),Recommended Threat Assessment,,Ticket Portal
+T80,Low,New York,Security Gap,Password non-expiry,IT,On Prem Server,04-03-2021 10:55,04-03-2021 10:55,18-03-2021 11:06,Allan,Excellent (5),Advised for a risk assessment,,Personal Call
+T81,High,Texas,Cyber Consultation,Application Offboarding,Marketing,On Prem Server,05-03-2021 21:27,05-03-2021 21:45,07-03-2021 20:14,Martina,Good (4),Advised for a risk assessment,,Ticket Portal
+T82,High,Utah,Data Leak,Insider Threat,IT,On Prem Server,05-03-2021 21:33,28-04-2021 22:11,10-03-2021 18:30,Martina,Good (4),Recommended Threat Assessment,,Mail
+T83,High,New Jersey,Data Privacy,HIPAA,Legal,Vendor Cloud,06-03-2021 19:36,08-07-2021 01:39,11-03-2021 10:17,Sean,Unsatisfactory (2),Advised for a risk assessment,Yes,Ticket Portal
+T84,High,New Jersey,Data Privacy,HIPAA,Legal,Vendor Cloud,06-03-2021 19:36,08-07-2021 01:39,11-03-2021 10:17,Bob,Unsatisfactory (2),Advised for a risk assessment,Yes,Ticket Portal
+T85,Low,California,Cyber Consultation,Segregation of Duties,Manufacturing,Vendor Cloud,06-03-2021 19:47,06-03-2021 20:09,10-03-2021 11:04,Sylviya,Good (4),Advised for a risk assessment,,Mail
+T86,Low,Louisiana,Data Leak,Insider Threat,IT,On Prem Cloud,07-03-2021 14:38,07-03-2021 14:41,03-09-2021 17:36,Kareema,Good (4),Advised for a risk assessment,,Ticket Portal
+T87,High,California,Cyber Consultation,Application Offboarding,IT,On Prem Cloud,07-03-2021 17:14,07-03-2021 18:23,18-03-2021 11:03,Allan,Good (4),Resolved,,Personal Call
+T88,Low,Georgia,Data Privacy,PCI-DSS,Legal,Vendor Cloud,10-03-2021 17:10,10-03-2021 17:15,20-03-2021 10:34,Bob,Satisfactory (3),Advised for a risk assessment,,Mail
+T89,Low,New York,Data Leak,Phishing,Manufacturing,Vendor Cloud,10-03-2021 17:24,10-03-2021 17:26,21-03-2021 20:07,Aleena,Unsatisfactory (2),Resolved,Yes,Mail
+T90,High,California,Cyber Security Breach,Firewall,IT,On Prem Server,10-03-2021 17:24,10-03-2021 17:26,21-03-2021 20:07,Aleena,Satisfactory (3),Advised for a risk assessment,,Ticket Portal
+T91,High,Virginia,Cyber Security Breach,Spyware,Finance,On Prem Server,11-03-2021 12:15,11-03-2021 12:16,13-03-2021 22:08,Charlotte,Excellent (5),Advised for a risk assessment,,Mail
+T92,Low,California,Data Privacy,HIPAA,Finance,On Prem Server,11-03-2021 17:17,11-03-2021 17:18,13-03-2021 11:46,Kareema,Excellent (5),Resolved,,Ticket Portal
+T93,Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Server,11-03-2021 23:36,12-03-2021 01:18,17-03-2021 21:45,Sean,Excellent (5),Resolved,,Ticket Portal
+T94,Medium,California,Data Privacy,PCI-DSS,Legal,On Prem Server,11-03-2021 23:36,12-03-2021 01:18,17-03-2021 21:45,Martina,Excellent (5),Resolved,,Mail
+T95,High,Colorado,Data Privacy,HIPAA,HR,Vendor Cloud,12-03-2021 11:55,12-03-2021 11:58,17-03-2021 09:47,Michael,Excellent (5),Resolved,,Ticket Portal
+T96,High,California,Cyber Security Breach,Firewall,IT,On Prem Server,12-03-2021 11:55,12-03-2021 11:58,17-03-2021 09:47,Benny,Excellent (5),Resolved,,Personal Call
+T97,High,Colorado,Data Privacy,HIPAA,HR,Vendor Cloud,12-03-2021 11:55,12-03-2021 11:58,17-03-2021 09:47,Benny,Excellent (5),Resolved,,Mail
+T98,High,Virginia,Cyber Consultation,BCP/DR,IT,On Prem Server,12-03-2021 17:45,12-03-2021 17:46,13-03-2021 11:45,Kareema,Good (4),Advised for a risk assessment,,Ticket Portal
+T99,High,Utah,Data Privacy,GDPR,Finance,On Prem Server,13-03-2021 14:20,13-03-2021 14:28,17-03-2021 10:43,Benny,Excellent (5),Resolved,,Ticket Portal
